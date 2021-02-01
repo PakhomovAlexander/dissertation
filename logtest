@@ -1,0 +1,442 @@
+#	make -C Diploma
+latexmk -pdf -pdflatex="xelatex -halt-on-error -file-line-error %O '\newcounter{fontfamily}\setcounter{fontfamily}\
+{2}\input{%S}'" diploma
+Latexmk: applying rule 'pdflatex'...
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+\c@fontfamily=\count79
+(./diploma.tex (/usr/share/texlive/texmf-dist/tex/latex/nag/nag.sty
+(/usr/share/texlive/texmf-dist/tex/latex/nag/nag-l2tabu.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/nag/nag-orthodox.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
+ment class
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem14.clo)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty))
+(./common/setup.tex) (./common/packages.tex
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/backnaur/backnaur.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/soulutf8.sty
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/was/icomma.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/impnattypo/impnattypo.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/totalcount.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/totcount/totcount.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/totpages/totpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty))
+(./Diploma/dispackages.tex
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarychains.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex))) (./Diploma/userpackages.tex
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/fr-longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/was/upgreek.sty)) (./Diploma/setup.tex
+) (./common/newnames.tex) (./common/data.tex) (./common/fonts.tex
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-russian.ldf
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/babelsh.def))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf))
+(./common/styles.tex
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def))
+(./Diploma/disstyles.tex) (./Diploma/userstyles.tex) (./biblio/biblatex.tex
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx))
+(./diploma.aux (./Diploma/title.aux) (./Diploma/contents.aux)
+(./Diploma/introduction.aux) (./Diploma/part1.aux) (./Diploma/part2.aux)
+(./Diploma/taskdefinition.aux) (./Diploma/analyze.aux)
+(./Diploma/conclusion.aux) (./Diploma/references.aux))
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+Redoing nameref's sectioning
+Redoing nameref's label
+(./diploma.out) (./diploma.out) ABD: EveryShipout initializing macros
+(./diploma.bbl) (./common/renames.tex) (./Diploma/title.tex) [1.1]
+(./Diploma/contents.tex (./diploma.toc
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd))) [2.2]
+(./Diploma/introduction.tex) [3.3] (./Diploma/part1.tex
+(./Diploma/lexAndSyntaxAnalyze.tex
+Underfull \hbox (badness 2111) in paragraph at lines 18--19
+[]\TU/LiberationSerif(1)/m/it/14.4 Токен \TU/LiberationSerif(1)/m/n/14.4 предст
+авляет собой пару, состоящую из имени токена и
+
+Underfull \hbox (badness 2671) in paragraph at lines 18--19
+\TU/LiberationSerif(1)/m/n/14.4 необязательного атрибута. Имя токена — абстракт
+ный символ,
+
+Underfull \hbox (badness 2573) in paragraph at lines 18--19
+\TU/LiberationSerif(1)/m/n/14.4 идентификатор. Имена токенов являются входными 
+символами,
+[4.4]) (./Diploma/grammars.tex
+
+Package nag Warning: Environment eqnarray is obsolete. 
+(nag)                Use amsmath's align instead on input line 13.
+
+[5.5])) [6.6]
+No file Diploma/part2.tex.
+(./Diploma/taskdefinition.tex) [7.7] (./Diploma/analyze.tex
+(./Diploma/data/analyze_Knuth1968
+Underfull \hbox (badness 5203) in paragraph at lines 4--5
+\TU/LiberationSerif(1)/m/n/14.4 свободных граматик. Поледняя секция содержит ср
+авнение основных
+) (./Diploma/data/analyze_Johnson1975.tex
+Underfull \hbox (badness 2538) in paragraph at lines 2--3
+[]\TU/LiberationSerif(1)/m/n/14.4 Статья «Еще один компилятор-компилятор» [[][]
+35[][]] описывает Yacc.
+) (./Diploma/data/analyze_Earley1983.tex [8.8]
+
+LaTeX Warning: Reference `subsection_earley1970' on page 9 undefined on input l
+ine 4.
+
+) (./Diploma/data/analyze_Tanenbaum1983.tex)
+(./Diploma/data/analyze_Tomita1985.tex [9.9])
+(./Diploma/data/analyze_Lee1996.tex
+Underfull \hbox (badness 2080) in paragraph at lines 2--4
+[]\TU/LiberationSerif(1)/m/n/14.4 В статье[[][]30[][]] описываются основные под
+ходы для интерпритации
+) (./Diploma/data/analyze_Deursen1998.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\TU/LiberationSerif(1)/m/n/14.4 описание, запрос, процесс, задача, ...), написа
+нная на предметно-
+[10.10]
+Underfull \hbox (badness 2600) in paragraph at lines 18--19
+[]\TU/LiberationSerif(1)/m/n/14.4 Альтернатива предметно-ориентированным языкам
+: Использование
+) (./Diploma/data/analyze_Sujeeth2014.tex [11.11]
+Underfull \hbox (badness 1515) in paragraph at lines 8--9
+\TU/LiberationSerif(1)/m/n/14.4 производительности программ. Низкоуровневые язы
+ки, в свою очередь,
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/LiberationSerif(1)/m/n/14.4 Авторы статьи предлагают решить эту проблему 
+с помощью
+
+Underfull \hbox (badness 5667) in paragraph at lines 12--13
+[]\TU/LiberationSerif(1)/m/n/14.4 Статья предлагает использовать Delite для нап
+исания подобных
+) (./Diploma/data/analyze_Barik2018.tex [12.12])) [13.13]
+(./Diploma/conclusion.tex (./common/concl.tex)) [14.14]
+(./Diploma/references.tex
+Underfull \hbox (badness 2253) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Wimmer\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 C. \TU/LiberationSerif(1)/m/n/14.4 Truffle: a self
+-optimizing runtime system / C. Wimmer,
+
+Underfull \hbox (badness 2460) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Vergu\TU/LiberationSerif(1)/m/n/14.4 , \TU/L
+iberationSerif(1)/m/it/14.4 V. \TU/LiberationSerif(1)/m/n/14.4 Specializing a m
+eta-interpreter: JIT compilation of dynsem
+
+Underfull \hbox (badness 2600) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Tomita\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 M. \TU/LiberationSerif(1)/m/n/14.4 An Efficient Co
+ntext-Free Parsing Algorithm for Natural
+
+Underfull \hbox (badness 2318) in paragraph at lines 6--6
+\TU/LiberationSerif(1)/m/n/14.4 text using a context-free grammar / J. M. Temki
+n, M. R. Gilder []
+
+Underfull \hbox (badness 2326) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Spinellis\TU/LiberationSerif(1)/m/n/14.4 , \
+TU/LiberationSerif(1)/m/it/14.4 D. \TU/LiberationSerif(1)/m/n/14.4 Notable desi
+gn patterns for domain-specific languages /
+[15.15]
+Underfull \hbox (badness 2237) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Moore\TU/LiberationSerif(1)/m/n/14.4 , \TU/L
+iberationSerif(1)/m/it/14.4 R. C. \TU/LiberationSerif(1)/m/n/14.4 Removing left
+ recursion from context-free grammars /
+
+Underfull \hbox (badness 3439) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Mernik\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 M. \TU/LiberationSerif(1)/m/n/14.4 When and how to
+ develop domain-specific languages /
+[16.16]
+Underfull \hbox (badness 2698) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Knuth\TU/LiberationSerif(1)/m/n/14.4 , \TU/L
+iberationSerif(1)/m/it/14.4 D. E. \TU/LiberationSerif(1)/m/n/14.4 Semantics of 
+context-free languages / D. E. Knuth []
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Jørring\TU/LiberationSerif(1)/m/n/14.4 , \TU
+/LiberationSerif(1)/m/it/14.4 U. \TU/LiberationSerif(1)/m/n/14.4 Compilers and 
+staging transformations / U. Jørring,
+
+Underfull \hbox (badness 2318) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/n/14.4 Librando: transparent code randomization for 
+just-in-time compilers /
+
+Underfull \hbox (badness 3189) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Hearnden\TU/LiberationSerif(1)/m/n/14.4 , \T
+U/LiberationSerif(1)/m/it/14.4 D. \TU/LiberationSerif(1)/m/n/14.4 Anti-Yacc: MO
+F-to-text / D. Hearnden, K. Raymond,
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Grosch\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 J. \TU/LiberationSerif(1)/m/n/14.4 A tool box for 
+compiler construction / J. Grosch,
+
+Underfull \hbox (badness 1616) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Griffiths\TU/LiberationSerif(1)/m/n/14.4 , \
+TU/LiberationSerif(1)/m/it/14.4 T. V. \TU/LiberationSerif(1)/m/n/14.4 On the re
+lative efficiencies of context-free grammar /
+[17.17]
+Underfull \hbox (badness 3158) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Earley\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 J. \TU/LiberationSerif(1)/m/n/14.4 An efficient co
+ntext-free parsing algorithm / J. Earley []
+
+Underfull \hbox (badness 3158) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Earley\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 J. \TU/LiberationSerif(1)/m/n/14.4 An efficient co
+ntext-free parsing algorithm / J. Earley []
+
+Underfull \hbox (badness 2073) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/it/14.4 Cooper\TU/LiberationSerif(1)/m/n/14.4 , \TU/
+LiberationSerif(1)/m/it/14.4 K. D. \TU/LiberationSerif(1)/m/n/14.4 Adaptive opt
+imizing compilers for the 21st century /
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\TU/LiberationSerif(1)/m/n/14.4 K. D. Cooper, D. Subramanian, L. Torczon [] The
+ Journal of
+
+Underfull \hbox (badness 2762) in paragraph at lines 6--6
+[]\TU/LiberationSerif(1)/m/n/14.4 A generative programming approach to developi
+ng DSL compilers /
+[18.18]
+
+Package biblatex Warning: No driver for entry type 'b'.
+(biblatex)                Using fallback driver on input line 6.
+
+) [19.19]
+
+Package nag Warning: 1 complaints in total.
+
+(./diploma.aux (./Diploma/title.aux) (./Diploma/contents.aux)
+(./Diploma/introduction.aux) (./Diploma/part1.aux) (./Diploma/part2.aux)
+(./Diploma/taskdefinition.aux) (./Diploma/analyze.aux)
+(./Diploma/conclusion.aux) (./Diploma/references.aux))
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information)
+Output written on diploma.pdf (19 pages).
+Transcript written on diploma.log.
+Latexmk: All targets (diploma.pdf) are up-to-date
