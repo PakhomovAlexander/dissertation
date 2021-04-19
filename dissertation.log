@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  14 APR 2021 18:31
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  19 APR 2021 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1928,9 +1928,16 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 
 (./dissertation.aux (./Dissertation/title.aux) (./Dissertation/annotation.aux)
 (./Dissertation/contents.aux) (./Dissertation/introduction.aux)
-(./Dissertation/analyze_1.aux) (./Dissertation/task_definition_2.aux)
-(./Dissertation/realisation_3.aux) (./Dissertation/conclusion.aux)
-(./Dissertation/references.aux) (./Dissertation/appendix.aux)
+(./Dissertation/analyze_1.aux
+
+LaTeX Warning: Label `section_4' multiply defined.
+
+
+LaTeX Warning: Label `section_4@cref' multiply defined.
+
+) (./Dissertation/task_definition_2.aux) (./Dissertation/realisation_3.aux)
+(./Dissertation/conclusion.aux) (./Dissertation/references.aux)
+(./Dissertation/appendix.aux)
 \c@totalcount@figure@totc=\count587
 \c@totalcount@table@totc=\count588
 \c@TotPages@totc=\count589
@@ -2301,10 +2308,10 @@ Underfull \hbox (badness 5189) in paragraph at lines 6--46
 
  (./Dissertation/contents.tex (./dissertation.toc
 Package cleveref Info: loaded `russian' language definitions on input line 4.
-)) [3.3
+ [3.3
 
 
-]
+])) [4.4]
 \openout2 = `Dissertation/introduction.aux'.
 
 
@@ -2320,7 +2327,7 @@ Underfull \hbox (badness 3240) in paragraph at lines 8--9
 ьности выбранной
  []
 
-) [4.4
+) [5.5
 
 
 
@@ -2328,67 +2335,47 @@ Underfull \hbox (badness 3240) in paragraph at lines 8--9
 \openout2 = `Dissertation/analyze_1.aux'.
 
  (./Dissertation/analyze_1.tex
-Underfull \hbox (badness 2158) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 (с обязательными ссылками на источники!), а также
- нормативных ма-
- []
-
-
-Underfull \hbox (badness 4752) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 анализа макси- мально возможного количества источ
-ников. В редкой
- []
-
-
-Underfull \hbox (badness 3271) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 состояние выбранной предметной области с последую
-щими выводами
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 об актуальности заявлен- ных исследований. В перв
-ой главе могут
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\TU/TimesNewRoman(1)/m/n/14.4 и зарубежной научной и специальной литературы по 
+исследуемой
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 проводиться их сравнительный анализ с ис- пользов
-анием системы
+\TU/TimesNewRoman(1)/m/n/14.4 заявленных исследований. В первой главе могут рас
+сматриваться
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 графиков, диаграмм, схем для того, чтобы сделать 
-выводы о сильных
+Underfull \hbox (badness 3098) in paragraph at lines 10--11
+\TU/TimesNewRoman(1)/m/n/14.4 схем для того, чтобы сделать выводы о сильных и с
+лабых сторонах
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 и слабых сторонах имеющихся решений и обосновать 
-собственные
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 теоретическим обоснованием исследо- ваний, провед
-енных автором.
+Underfull \hbox (badness 1668) in paragraph at lines 10--11
+\TU/TimesNewRoman(1)/m/n/14.4 исследований, проведенных автором. Последующие гл
+авы магистерской
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
-\TU/TimesNewRoman(1)/m/n/14.4 Последующие главы магистерской диссертации строят
-ся по схеме:
+\TU/TimesNewRoman(1)/m/n/14.4 диссертации строятся по схеме: математическое, ал
+горитмическое,
  []
 
-) [5.5
+(./Dissertation/introduction_to_software_tests.tex)
+(./Dissertation/lexical_fuzzing.tex [6.6
 
 
 
-]
+])
+(./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
+[7.7]) (./Dissertation/domain_fuzzing.tex)) [8.8]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
- (./Dissertation/task_definition_2.tex)
+
+(./Dissertation/task_definition_2.tex)
 Underfull \hbox (badness 3679) in paragraph at lines 10--50
 []\TU/TimesNewRoman(1)/m/n/14.4 Во второй главе приводится постановка задачи, е
 е содержательное и
@@ -2454,7 +2441,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[6.6
+[9.9
 
 
 
@@ -2463,7 +2450,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex)
 (./Dissertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [7.7
+(./Dissertation/tests.tex)) [10.10
 
 
 
@@ -2506,7 +2493,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[8.8
+[11.11
 
 
 
@@ -2519,7 +2506,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 15--16
 Компьютерные сети : Нисходящий подход. \TU/TimesNewRoman(1)/m/n/14.4 /
  []
 
-) [9.9
+) [12.12
 
 
 
@@ -2527,7 +2514,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 15--16
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [10.10
+ (./Dissertation/appendix.tex) [13.13
 
 
 
@@ -2599,19 +2586,23 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: DB542625EB18A1CF43D741F5467F4B41;821.
+(rerunfilecheck)             Checksum: CD326BF58D6F7BD4DEB0DC2982FF0427;3513.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'dissertation.run.xml'.
 \openout1 = `dissertation.run.xml'.
 
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 43951 strings out of 479418
- 856748 string characters out of 5884585
- 1921162 words of memory out of 5000000
- 60638 multiletter control sequences out of 15000+600000
+ 43995 strings out of 479418
+ 857945 string characters out of 5884585
+ 1924637 words of memory out of 5000000
+ 60667 multiletter control sequences out of 15000+600000
  536795 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,11n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (10 pages).
+Output written on dissertation.pdf (13 pages).

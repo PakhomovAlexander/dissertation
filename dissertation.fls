@@ -497,6 +497,16 @@ INPUT Dissertation/introduction.tex
 OUTPUT Dissertation/analyze_1.aux
 INPUT Dissertation/analyze_1.tex
 INPUT Dissertation/analyze_1.tex
+INPUT Dissertation/introduction_to_software_tests.tex
+INPUT Dissertation/introduction_to_software_tests.tex
+INPUT Dissertation/lexical_fuzzing.tex
+INPUT Dissertation/lexical_fuzzing.tex
+INPUT Dissertation/syntactical_fuzzing.tex
+INPUT Dissertation/syntactical_fuzzing.tex
+INPUT Dissertation/semantical_fuzzing.tex
+INPUT Dissertation/semantical_fuzzing.tex
+INPUT Dissertation/domain_fuzzing.tex
+INPUT Dissertation/domain_fuzzing.tex
 OUTPUT Dissertation/task_definition_2.aux
 INPUT Dissertation/task_definition_2.tex
 INPUT Dissertation/task_definition_2.tex

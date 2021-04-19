@@ -1,11 +1,40 @@
 \BOOKMARK [0][-]{chapter*.3}{Введение}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Анализ существующих подходов}{}% 2
-\BOOKMARK [0][-]{chapter.2}{Постановка задачи}{}% 3
-\BOOKMARK [0][-]{chapter.3}{Реализация}{}% 4
-\BOOKMARK [1][-]{section.3.1}{Средства реализации}{chapter.3}% 5
-\BOOKMARK [1][-]{section.3.2}{Требования к программному и аппаратному обеспечению}{chapter.3}% 6
-\BOOKMARK [1][-]{section.3.3}{Реализация}{chapter.3}% 7
-\BOOKMARK [1][-]{section.3.4}{План тестирования}{chapter.3}% 8
-\BOOKMARK [0][-]{chapter*.4}{Заключение}{}% 9
-\BOOKMARK [0][-]{chapter*.5}{Список литературы}{}% 10
-\BOOKMARK [0][-]{appendix.A}{Листинг кода}{}% 11
+\BOOKMARK [0][-]{chapter.1}{Анализ существующих подходов к генерации тестового кода}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Введение в тестирование программного обеспечения}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Лексическая генерация случайных входных данных}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{Fuzzing:\040Breaking\040Things\040with\040Random\040Inputs}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.2}{Code\040Coverage}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.3}{Mutation-Based\040Fuzzing}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.4}{Greybox\040Fuzzing}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.5}{Search-Based\040Fuzzing}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.6}{Mutation\040Analysis}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Синтаксическая генерация случайных входных данных}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.3.1}{Fuzzing\040with\040Grammars}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.2}{Efficient\040Grammar\040Fuzzing}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.3}{Grammar\040Coverage}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.4}{Parsing\040Inputs}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.5}{Probabilistic\040Grammar\040Fuzzing}{section.1.3}% 16
+\BOOKMARK [2][-]{subsection.1.3.6}{Fuzzing\040with\040Generators}{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.7}{Greybox\040Fuzzing\040with\040Grammars}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.8}{Reducing\040Failure-Inducing\040Inputs}{section.1.3}% 19
+\BOOKMARK [1][-]{section.1.4}{Семантическая генерация случайных входных данных}{chapter.1}% 20
+\BOOKMARK [2][-]{subsection.1.4.1}{Mining\040Input\040Grammarss}{section.1.4}% 21
+\BOOKMARK [2][-]{subsection.1.4.2}{Tracking\040Information\040Flow}{section.1.4}% 22
+\BOOKMARK [2][-]{subsection.1.4.3}{Concolic\040Fuzzing}{section.1.4}% 23
+\BOOKMARK [2][-]{subsection.1.4.4}{Symbolic\040Fuzzing}{section.1.4}% 24
+\BOOKMARK [2][-]{subsection.1.4.5}{Mining\040Function\040Specifications}{section.1.4}% 25
+\BOOKMARK [1][-]{section.1.5}{Доменная генерация случайных входных данных}{chapter.1}% 26
+\BOOKMARK [2][-]{subsection.1.5.1}{Testing\040Configurations}{section.1.5}% 27
+\BOOKMARK [2][-]{subsection.1.5.2}{Fuzzing\040APIs}{section.1.5}% 28
+\BOOKMARK [2][-]{subsection.1.5.3}{Carving\040Unit\040Tests}{section.1.5}% 29
+\BOOKMARK [2][-]{subsection.1.5.4}{Testing\040Web\040Applications}{section.1.5}% 30
+\BOOKMARK [2][-]{subsection.1.5.5}{Testing\040Graphical\040User\040Interfaces}{section.1.5}% 31
+\BOOKMARK [0][-]{chapter.2}{Постановка задачи}{}% 32
+\BOOKMARK [0][-]{chapter.3}{Реализация}{}% 33
+\BOOKMARK [1][-]{section.3.1}{Средства реализации}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.2}{Требования к программному и аппаратному обеспечению}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.3}{Реализация}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.4}{План тестирования}{chapter.3}% 37
+\BOOKMARK [0][-]{chapter*.4}{Заключение}{}% 38
+\BOOKMARK [0][-]{chapter*.5}{Список литературы}{}% 39
+\BOOKMARK [0][-]{appendix.A}{Листинг кода}{}% 40
