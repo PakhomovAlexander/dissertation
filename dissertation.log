@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  19 APR 2021 21:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  29 APR 2021 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2364,14 +2364,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 горитмическое,
  []
 
-(./Dissertation/introduction_to_software_tests.tex)
-(./Dissertation/lexical_fuzzing.tex [6.6
+(./Dissertation/introduction_to_software_tests.tex
+Underfull \hbox (badness 6978) in paragraph at lines 3--4
+\TU/TimesNewRoman(1)/m/n/14.4 испытания программного продукта, имеющий своей це
+лью проверку
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+\TU/TimesNewRoman(1)/m/n/14.4 поведением на конечном наборе тестов, выбранных о
+пределённым
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(1)/m/n/14.4 Ручное тестирование (англ. manual testing) — ча
+сть процесса
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 7--8
+\TU/TimesNewRoman(1)/m/n/14.4 производится тестировщиком без использования прог
+раммных средств,
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 7--8
+\TU/TimesNewRoman(1)/m/n/14.4 для проверки программы или сайта путём моделирова
+ния действий
+ []
+
+[6.6
 
 
 
-])
-(./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
-[7.7]) (./Dissertation/domain_fuzzing.tex)) [8.8]
+]
+Underfull \hbox (badness 4036) in paragraph at lines 12--13
+[]\TU/TimesNewRoman(1)/m/n/14.4 Простота. От тестировщика не требуется знания с
+пециальных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]\TU/TimesNewRoman(1)/m/n/14.4 Наличие человеческого труда. Тестировщих может 
+допустить
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 20--21
+[]\TU/TimesNewRoman(1)/m/n/14.4 Такой вид тестирования не способен покрыть все 
+сценарии
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 27--28
+[]\TU/TimesNewRoman(1)/m/n/14.4 Автоматизированное тестирование программного об
+еспечения —
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 27--28
+\TU/TimesNewRoman(1)/m/n/14.4 часть процесса тестирования на этапе контроля кач
+ества в процессе
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 27--28
+\TU/TimesNewRoman(1)/m/n/14.4 разработки программного обеспечения. Оно использу
+ет программные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]\TU/TimesNewRoman(1)/m/n/14.4 Тестирование пользовательского интерфейса. С по
+мощью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\TU/TimesNewRoman(1)/m/n/14.4 исключение появления ошибки в последующей разра
+ботки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\TU/TimesNewRoman(1)/m/n/14.4 Трудоемкость. Поддержка и обновление тестов явл
+яются
+ []
+
+[7.7]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\TU/TimesNewRoman(1)/m/n/14.4 Автоматическое тестирование не может полностью 
+заменить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\TU/TimesNewRoman(1)/m/n/14.4 ручное. На практике используется комбинация ручно
+го и
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 63--64
+[]\TU/TimesNewRoman(1)/m/n/14.4 Создать новый класс, для написания тестов. По с
+оглашению,
+ []
+
+
+Overfull \hbox (0.86798pt too wide) in paragraph at lines 65--66
+\TU/TimesNewRoman(1)/m/n/14.4 заканчивается выражением из пакета \TU/TimesNewRo
+man(1)/m/it/14.4 org.junit.jupiter.api.Assertions.*\TU/TimesNewRoman(1)/m/n/14.
+4 . 
+ []
+
+Package hyperref Info: bookmark level for unknown ListingEnv defaults to 0 on i
+nput line 71.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Dissertation/testing_approaches.tex [8.8])
+(./Dissertation/testing_approaches_generating.tex [9.9] [10.10])
+(./Dissertation/lexical_fuzzing.tex) (./Dissertation/syntactical_fuzzing.tex
+[11.11]) (./Dissertation/semantical_fuzzing.tex)
+(./Dissertation/domain_fuzzing.tex [12.12])) [13.13]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
@@ -2441,16 +2562,16 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[9.9
+[14.14
 
 
 
 ]
 \openout2 = `Dissertation/realisation_3.aux'.
 
- (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex)
-(./Dissertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [10.10
+ (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
+sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
+(./Dissertation/tests.tex)) [15.15
 
 
 
@@ -2493,7 +2614,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[11.11
+[16.16
 
 
 
@@ -2501,12 +2622,168 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 \openout2 = `Dissertation/references.aux'.
 
  (./Dissertation/references.tex
-Underfull \hbox (badness 2221) in paragraph at lines 15--16
-[]\TU/TimesNewRoman(1)/m/n/14.4 Куроуз, Джеймс. \TU/TimesNewRoman(1)/m/it/14.4 
-Компьютерные сети : Нисходящий подход. \TU/TimesNewRoman(1)/m/n/14.4 /
- []
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...ttps://ru.wikipedia.org/wiki/Тестирование_
+                                                  программного_обеспечения
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-) [12.12
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 ^^I
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.15 ^^I
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no п in font cmmi10!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no г in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no м in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no г in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no о in font cmmi10!
+Missing character: There is no б in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no п in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no ч in font cmmi12!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no я in font cmmi12!
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.15 ^^I
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 \item https://ru.wikipedia.org/wiki/Ручное_
+                                                тестирование
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.17 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no т in font cmmi10!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no в in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no е in font cmmi12!
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.17 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 .../ru.wikipedia.org/wiki/Автоматизированное_
+                                                  тестирование
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.19 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no т in font cmmi10!
+Missing character: There is no е in font cmmi12!
+Missing character: There is no с in font cmmi12!
+Missing character: There is no т in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no в in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no н in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no е in font cmmi12!
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.19 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) [17.17
 
 
 
@@ -2514,7 +2791,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 15--16
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [13.13
+ (./Dissertation/appendix.tex) [18.18
 
 
 
@@ -2586,7 +2863,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: CD326BF58D6F7BD4DEB0DC2982FF0427;3513.
+(rerunfilecheck)             Checksum: A804CFF03AFF24FA8D41F7692634F255;5035.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2597,12 +2874,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 43995 strings out of 479418
- 857945 string characters out of 5884585
- 1924637 words of memory out of 5000000
- 60667 multiletter control sequences out of 15000+600000
- 536795 words of font info for 82 fonts, out of 8000000 for 9000
+ 44219 strings out of 479418
+ 860849 string characters out of 5884585
+ 2061193 words of memory out of 5000000
+ 60877 multiletter control sequences out of 15000+600000
+ 536827 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (13 pages).
+Output written on dissertation.pdf (18 pages).

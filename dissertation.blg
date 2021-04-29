@@ -1,9 +1,9 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'dissertation.blg'
-[119] biber-darwin:322> INFO - === Mon Apr 19, 2021, 21:37:01
-[147] Biber.pm:415> INFO - Reading 'dissertation.bcf'
-[341] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
-[347] Utils.pm:304> WARN - The file 'dissertation.bcf' does not contain any citations!
-[357] bbl.pm:652> INFO - Writing 'dissertation.bbl' with encoding 'UTF-8'
-[357] bbl.pm:755> INFO - Output to dissertation.bbl
-[358] Biber.pm:128> INFO - WARNINGS: 1
+[85] biber-darwin:322> INFO - === Thu Apr 29, 2021, 23:52:46
+[103] Biber.pm:415> INFO - Reading 'dissertation.bcf'
+[254] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[260] Utils.pm:304> WARN - The file 'dissertation.bcf' does not contain any citations!
+[270] bbl.pm:652> INFO - Writing 'dissertation.bbl' with encoding 'UTF-8'
+[270] bbl.pm:755> INFO - Output to dissertation.bbl
+[271] Biber.pm:128> INFO - WARNINGS: 1
