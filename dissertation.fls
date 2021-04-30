@@ -503,6 +503,7 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT Dissertation/testing_approaches.tex
 INPUT Dissertation/testing_approaches.tex
+INPUT images/Boundaries_example.png
 INPUT Dissertation/testing_approaches_generating.tex
 INPUT Dissertation/testing_approaches_generating.tex
 INPUT Dissertation/lexical_fuzzing.tex

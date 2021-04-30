@@ -18,7 +18,7 @@
 	\item Наличие человеческого труда. Тестировщих может допустить ошибку в процессе ручных действий.
 	\item Выполнение ручных дейсвий может занимать много времени.
 	\item Такой вид тестирования не способен покрыть все сценарии использования ПО. 
-	\item Не исключается повторное внесение ошибки. Если пользователь системы нашел ошибку, тестировщик воспроизведет её только один раз. В последующих циклах разработки ПО ошибка может быть внесена повторно.
+	\item Не исключается повторное внесение ошибки. Если пользователь системы нашел ошибку, тестировщик воспроизведет её только один раз. В последующих циклах разработки программного обеспесения ошибка может быть внесена повторно.
 \end{itemize} 
 
 
@@ -71,37 +71,37 @@ JUnit~--- самый распространненый инструмент дл�
 	\caption{Тестируемый класс \textit{RomanNumeral}}
 	% окружение учитывает пробелы и табуляции и применяет их в сответсвии с настройками
 	\begin{lstlisting}[language={Java}]
-	public class RomanNumeral {
-		private static Map<Character, Integer> map;
-		
-		static {
-			map = new HashMap<>();
-			map.put('I', 1);
-			map.put('V', 5);
-			map.put('X', 10);
-			map.put('L', 50);
-			map.put('C', 100);
-			map.put('D', 500);
-			map.put('M', 1000);
-		}
-		
-		public int convert(String s) {
-			int convertedNumber = 0;
-			
-			for (int i = 0; i < s.length(); i++) {
-				int currentNumber = map.get(s.charAt(i));
-				int next = i + 1 < s.length() ? map.get(s.charAt(i + 1)) : 0;
-				
-				if (currentNumber >= next) {
-					convertedNumber += currentNumber;
-				} else {
-					convertedNumber -= currentNumber;
-				}
-			}
-			
-			return convertedNumber;
-		}
+public class RomanNumeral {
+	private static Map<Character, Integer> map;
+	
+	static {
+		map = new HashMap<>();
+		map.put('I', 1);
+		map.put('V', 5);
+		map.put('X', 10);
+		map.put('L', 50);
+		map.put('C', 100);
+		map.put('D', 500);
+		map.put('M', 1000);
 	}
+	
+	public int convert(String s) {
+		int convertedNumber = 0;
+		
+		for (int i = 0; i < s.length(); i++) {
+			int currentNumber = map.get(s.charAt(i));
+			int next = i + 1 < s.length() ? map.get(s.charAt(i + 1)) : 0;
+			
+			if (currentNumber >= next) {
+				convertedNumber += currentNumber;
+			} else {
+				convertedNumber -= currentNumber;
+			}
+		}
+		
+		return convertedNumber;
+	}
+}
 	\end{lstlisting}
 \end{ListingEnv}%
 
@@ -110,35 +110,35 @@ JUnit~--- самый распространненый инструмент дл�
 	\caption{Тестирующий класс \textit{RomanNumeralTest}}
 	% окружение учитывает пробелы и табуляции и применяет их в сответсвии с настройками
 	\begin{lstlisting}[language={Java}]
-		import static org.junit.jupiter.api.Assertions.*;
-		import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class RomanNumeralTest {
+	
+	@Test
+	void convertSingleDigit() {
+		RomanNumeral roman = new RomanNumeral();
+		int result = roman.convert("C");
 		
-		public class RomanNumeralTest {
-			
-			@Test
-			void convertSingleDigit() {
-				RomanNumeral roman = new RomanNumeral();
-				int result = roman.convert("C");
-				
-				assertEquals(100, result);
-			}
-			
-			@Test
-			void convertNumberWithDifferentDigits() {
-				RomanNumeral roman = new RomanNumeral();
-				int result = roman.convert("CCXVI");
-				
-				assertEquals(216, result);
-			}
-			
-			@Test
-			void convertNumberWithSubtractiveNotation() {
-				RomanNumeral roman = new RomanNumeral();
-				int result = roman.convert("XL");
-				
-				assertEquals(40, result);
-			}
-		}
+		assertEquals(100, result);
+	}
+	
+	@Test
+	void convertNumberWithDifferentDigits() {
+		RomanNumeral roman = new RomanNumeral();
+		int result = roman.convert("CCXVI");
+		
+		assertEquals(216, result);
+	}
+	
+	@Test
+	void convertNumberWithSubtractiveNotation() {
+		RomanNumeral roman = new RomanNumeral();
+		int result = roman.convert("XL");
+		
+		assertEquals(40, result);
+	}
+}
 	\end{lstlisting}
 \end{ListingEnv}
 

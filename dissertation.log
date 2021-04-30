@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  29 APR 2021 23:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  30 APR 2021 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2488,81 +2488,177 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Dissertation/testing_approaches.tex [8.8])
-(./Dissertation/testing_approaches_generating.tex [9.9] [10.10])
-(./Dissertation/lexical_fuzzing.tex) (./Dissertation/syntactical_fuzzing.tex
-[11.11]) (./Dissertation/semantical_fuzzing.tex)
-(./Dissertation/domain_fuzzing.tex [12.12])) [13.13]
+) (./Dissertation/testing_approaches.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Разработка тестовых сценариев подразуевает анал
+из, дизайн и
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 5--6
+\TU/TimesNewRoman(1)/m/n/14.4 написание кода. Смысл этой фазы состоит в том, чт
+о бы разработать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+\TU/TimesNewRoman(1)/m/n/14.4 такое множество тестовых сценариев, которое бы уд
+овлетворяло
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 5--6
+\TU/TimesNewRoman(1)/m/n/14.4 «автоматизированное тестирование» не включает в с
+ебя автоматизацию
+ []
+
+[8.8]
+Underfull \hbox (badness 2781) in paragraph at lines 10--11
+\TU/TimesNewRoman(1)/m/n/14.4 должен быть конечен и выполняться достаточно быст
+ро. Далее будут
+ []
+
+[9.9]
+Underfull \hbox (badness 5622) in paragraph at lines 17--18
+[]\TU/TimesNewRoman(1)/m/n/14.4 Тестирование на основе спецификации — подход к 
+разработке
+ []
+
+[10.10]
+Underfull \hbox (badness 2326) in paragraph at lines 19--20
+[]\TU/TimesNewRoman(1)/m/n/14.4 Основу этого метода составляет группировка множ
+ества входных
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 23--24
+[]\TU/TimesNewRoman(1)/m/n/14.4 Пример спецификации. Определение високосного го
+да. На вход
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 23--24
+\TU/TimesNewRoman(1)/m/n/14.4 программе поступает год в виде числа, программа д
+олжна возвращать
+ []
+
+[11.11]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 123--124
+\TU/TimesNewRoman(1)/m/n/14.4 если применять маленькие изменения к входным данн
+ым (например,
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 123--124
+\TU/TimesNewRoman(1)/m/n/14.4 +1) рано или поздно набор входных данных перейдет
+ в другой класс.
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 131--132
+[]\TU/TimesNewRoman(1)/m/n/14.4 Постановка задачи. Подсчет количества очков игр
+ока. Даны очки
+ []
+
+[12.12]
+Underfull \hbox (badness 1655) in paragraph at lines 137--138
+[]\TU/TimesNewRoman(1)/m/n/14.4 Если количество оставшихся жизней больше, чем 3
+, то
+ []
+
+[13.13]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/Boundaries_example.png Graphic file (type bmp)
+<images/Boundaries_example.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14.14]) (./Dissertation/testing_approaches_generating.tex [15.15])
+(./Dissertation/lexical_fuzzing.tex [16.16])
+(./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
+[17.17]) (./Dissertation/domain_fuzzing.tex)) [18.18]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
 (./Dissertation/task_definition_2.tex)
-Underfull \hbox (badness 3679) in paragraph at lines 10--50
-[]\TU/TimesNewRoman(1)/m/n/14.4 Во второй главе приводится постановка задачи, е
-е содержательное и
+Underfull \hbox (badness 3861) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 и формализованное описание. Например, если работа
+ связана
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 в содержательной постановке приводятся ссылки на 
-документы,
- []
-
-
-Underfull \hbox (badness 2401) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 основные показатели, ко- торые должны быть достиг
-нуты в условиях
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 поставленной задачи, сроки выдачи информации, спо
-собы организации
+\TU/TimesNewRoman(1)/m/n/14.4 с разработкой информационных си- стем и использов
+анием
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 инструментария, описание входной и выходной инфор
-мации (форма
+\TU/TimesNewRoman(1)/m/n/14.4 информационных технологий, в содержательной поста
+новке
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 приводятся ссылки на документы, регламентирующие 
+процесс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 функционирования информационной системы, основные
+
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 показатели, ко- торые должны быть достигнуты в ус
+ловиях
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 эксплуатации информационной системы; ограничения 
+на время
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 организации диалога человека с инфор- мационной с
+истемой
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 средствами имеющегося инструментария, описание вх
+одной и
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 ние структурных единиц, периодичность выдачи инфо
+рмации
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 10--50
+\TU/TimesNewRoman(1)/m/n/14.4 или частота поступления), требования к организаци
+и сбора и
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--50
 \TU/TimesNewRoman(1)/m/n/14.4 В математической постановке (при наличии) выполня
-ется формали-
+ется
  []
 
-
-Underfull \hbox (badness 4859) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 зация задачи, в результате которой определяется с
-остав переменных,
- []
-
-
-Underfull \hbox (badness 7308) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 кон- стант, их классификация, виды ограничений на
- переменные и
- []
-
-
-Underfull \hbox (badness 4279) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 к которому относится решаемая задача, и приводитс
-я сравнительный
- []
-
-
-Underfull \hbox (badness 4981) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 анализ методов решения для выбора наиболее эффект
-ивного метода.
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 10--50
-\TU/TimesNewRoman(1)/m/n/14.4 задачи. Здесь же приводятся результаты теоретичес
-ких исследова- ний.
- []
-
-[14.14
+[19.19
 
 
 
@@ -2571,7 +2667,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [15.15
+(./Dissertation/tests.tex)) [20.20
 
 
 
@@ -2579,42 +2675,48 @@ sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
 \openout2 = `Dissertation/conclusion.aux'.
 
  (./Dissertation/conclusion.tex)
-Underfull \hbox (badness 2707) in paragraph at lines 8--52
+Overfull \hbox (3.82228pt too wide) in paragraph at lines 8--52
 []\TU/TimesNewRoman(1)/m/n/14.4 В заключении логически последовательно излагают
-ся теоретические и
+ся теоретические
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 8--52
-\TU/TimesNewRoman(1)/m/n/14.4 практические выводы, результаты и предложения, ко
-торые получены в
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--52
-\TU/TimesNewRoman(1)/m/n/14.4 полное представление о содержании, значимости, об
-основанности и
+Underfull \hbox (badness 6412) in paragraph at lines 8--52
+\TU/TimesNewRoman(1)/m/n/14.4 и практические выводы, результаты и предложения, 
+которые
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--52
-\TU/TimesNewRoman(1)/m/n/14.4 программного обеспечения для решения определенной
- задачи или
+\TU/TimesNewRoman(1)/m/n/14.4 четкими, дающими полное представление о содержани
+и,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--52
-\TU/TimesNewRoman(1)/m/n/14.4 класса задач, наличие внедрения в учебный, ис- сл
-едовательский,
+Underfull \hbox (badness 4403) in paragraph at lines 8--52
+\TU/TimesNewRoman(1)/m/n/14.4 значимости, обоснованности и эффек- тивности иссл
+едований
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 8--52
-\TU/TimesNewRoman(1)/m/n/14.4 публикаций автора и апробация ра- боты на конфере
-нциях различного
+Underfull \hbox (badness 5203) in paragraph at lines 8--52
+\TU/TimesNewRoman(1)/m/n/14.4 и разработок. Кроме того, в заключении можно пред
+ставить
  []
 
-[16.16
+
+Underfull \hbox (badness 4779) in paragraph at lines 8--52
+\TU/TimesNewRoman(1)/m/n/14.4 практическую значи- мость и результаты реализации
+ работы,
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 8--52
+\TU/TimesNewRoman(1)/m/n/14.4 производственный процесс, регистрацию программных
+ средств,
+ []
+
+[21.21
 
 
 
@@ -2783,7 +2885,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [17.17
+) [22.22
 
 
 
@@ -2791,7 +2893,7 @@ deleted material, e.g., by typing `I$}'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [18.18
+ (./Dissertation/appendix.tex) [23.23
 
 
 
@@ -2851,6 +2953,19 @@ No complaints by nag.
 \tf@toc=\write8
 \openout8 = `dissertation.toc'.
 
+
+! LaTeX Error: \begin{enumerate} on input line 200 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
 (./dissertation.aux (./Dissertation/title.aux)
@@ -2863,7 +2978,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: A804CFF03AFF24FA8D41F7692634F255;5035.
+(rerunfilecheck)             Checksum: C074430A76AB97BF48482C33932D3E1E;5035.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2872,14 +2987,18 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
 \openout1 = `dissertation.run.xml'.
 
  )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 200 (\begingroup)
+### bottom level
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44219 strings out of 479418
- 860849 string characters out of 5884585
- 2061193 words of memory out of 5000000
- 60877 multiletter control sequences out of 15000+600000
- 536827 words of font info for 86 fonts, out of 8000000 for 9000
+ 44266 strings out of 479418
+ 861761 string characters out of 5884585
+ 2044291 words of memory out of 5000000
+ 60914 multiletter control sequences out of 15000+600000
+ 536835 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,79p,1157b,4549s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (18 pages).
+Output written on dissertation.pdf (23 pages).
