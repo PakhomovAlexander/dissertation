@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 15:17
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 19:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2881,10 +2881,87 @@ Underfull \hbox (badness 7576) in paragraph at lines 519--520
 отку тестов.
  []
 
-[25.25]) (./Dissertation/testing_approaches_generating.tex)
-(./Dissertation/lexical_fuzzing.tex [26.26] [27.27])
+[25.25]
+Overfull \hbox (2.17278pt too wide) in paragraph at lines 526--527
+\TU/TimesNewRoman(1)/m/n/14.4 подходы к тестированию программного обеспечения, 
+которые подразумевают
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+\TU/TimesNewRoman(1)/m/n/14.4 написание отдельного кода с тестами. Самотестируе
+мые программы
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 526--527
+\TU/TimesNewRoman(1)/m/n/14.4 исключают написание специального кода для тестов.
+ Они содержат
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+\TU/TimesNewRoman(1)/m/n/14.4 тесты внутри себя. Далее будут рассмотренны спосо
+бы реализации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
+[]\TU/TimesNewRoman(1)/m/n/14.4 Самый простой способ проверить состояние програ
+ммы на
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+[]\TU/TimesNewRoman(1)/m/n/14.4 Стоит отметить, что утверждения не заменяют мод
+ульное
+ []
+
+[26.26] [27.27]
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+[]\TU/TimesNewRoman(1)/m/n/14.4 Инвариант программы — условие, которое выполняе
+тся на
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 592--593
+\TU/TimesNewRoman(1)/m/n/14.4 протяжении всего времени жизни программы. Отличие
+ инварианта от
+ []
+
+[28.28]
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+\TU/TimesNewRoman(1)/m/n/14.4 ориентированных языках часто встречаются \TU/Time
+sNewRoman(1)/b/n/14.4 инварианты классов\TU/TimesNewRoman(1)/m/n/14.4 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
+[]\TU/TimesNewRoman(1)/m/n/14.4 Дизайн по контракту — дизайн системы, которая с
+облюдает
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 624--625
+\TU/TimesNewRoman(1)/m/n/14.4 клиента с сервером, клиент должен соблюдать преду
+словия сервера. А
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 624--625
+\TU/TimesNewRoman(1)/m/n/14.4 контрактом является интерфейс. Диаграмма на рис. 
+[]1.6[] иллюстрирует
+ []
+
+File: images/Design_by_contract_TR.png Graphic file (type bmp)
+<images/Design_by_contract_TR.png>
+[29.29]) (./Dissertation/testing_approaches_generating.tex)
+(./Dissertation/lexical_fuzzing.tex [30.30])
 (./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
-[28.28]) (./Dissertation/domain_fuzzing.tex)) [29.29]
+[31.31]) (./Dissertation/domain_fuzzing.tex)) [32.32]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
@@ -2954,7 +3031,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[30.30
+[33.33
 
 
 
@@ -2963,7 +3040,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [31.31
+(./Dissertation/tests.tex)) [34.34
 
 
 
@@ -3006,7 +3083,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[32.32
+[35.35
 
 
 
@@ -3175,7 +3252,69 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [33.33
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 \item https://ru.wikipedia.org/wiki/Логика_
+                                                Хоара#Тройки_Хоара
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.24 ...ttps://ru.wikipedia.org/wiki/Логика_Хоара#
+                                                  Тройки_Хоара
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.25 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Х in font cmmi10!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no Т in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no й in font cmmi12!
+Missing character: There is no к in font cmmi12!
+Missing character: There is no и in font cmmi12!
+Missing character: There is no Х in font cmmi10!
+Missing character: There is no о in font cmmi12!
+Missing character: There is no а in font cmmi12!
+Missing character: There is no р in font cmmi12!
+Missing character: There is no а in font cmmi12!
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.25 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) [36.36
 
 
 
@@ -3183,7 +3322,7 @@ deleted material, e.g., by typing `I$}'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [34.34
+ (./Dissertation/appendix.tex) [37.37
 
 
 
@@ -3255,7 +3394,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 10860BF53FF62E3E6B76793BDB5361EA;5037.
+(rerunfilecheck)             Checksum: FA76FD4B6348FD42156FD47667CFA5B6;5037.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3266,12 +3405,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44343 strings out of 479418
- 863244 string characters out of 5884585
- 2075983 words of memory out of 5000000
- 60991 multiletter control sequences out of 15000+600000
- 536835 words of font info for 87 fonts, out of 8000000 for 9000
+ 44382 strings out of 479418
+ 863971 string characters out of 5884585
+ 2076105 words of memory out of 5000000
+ 61029 multiletter control sequences out of 15000+600000
+ 536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (34 pages).
+Output written on dissertation.pdf (37 pages).
