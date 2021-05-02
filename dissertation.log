@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 19:26
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 20:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2958,10 +2958,14 @@ Underfull \hbox (badness 3240) in paragraph at lines 624--625
 
 File: images/Design_by_contract_TR.png Graphic file (type bmp)
 <images/Design_by_contract_TR.png>
-[29.29]) (./Dissertation/testing_approaches_generating.tex)
-(./Dissertation/lexical_fuzzing.tex [30.30])
+[29.29]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Dissertation/testing_approaches_generating.tex [30.30])
+(./Dissertation/lexical_fuzzing.tex [31.31])
 (./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
-[31.31]) (./Dissertation/domain_fuzzing.tex)) [32.32]
+[32.32]) (./Dissertation/domain_fuzzing.tex)) [33.33]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
@@ -3031,7 +3035,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[33.33
+[34.34
 
 
 
@@ -3040,7 +3044,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [34.34
+(./Dissertation/tests.tex)) [35.35
 
 
 
@@ -3083,7 +3087,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[35.35
+[36.36
 
 
 
@@ -3314,7 +3318,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [36.36
+) [37.37
 
 
 
@@ -3322,7 +3326,7 @@ deleted material, e.g., by typing `I$}'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [37.37
+ (./Dissertation/appendix.tex) [38.38
 
 
 
@@ -3405,12 +3409,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44382 strings out of 479418
- 863971 string characters out of 5884585
+ 44389 strings out of 479418
+ 864059 string characters out of 5884585
  2076105 words of memory out of 5000000
- 61029 multiletter control sequences out of 15000+600000
+ 61036 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (37 pages).
+Output written on dissertation.pdf (38 pages).
