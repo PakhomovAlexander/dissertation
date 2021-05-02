@@ -511,6 +511,7 @@ INPUT images/Transition_tree_TR.png
 INPUT images/Design_by_contract_TR.png
 INPUT Dissertation/testing_approaches_generating.tex
 INPUT Dissertation/testing_approaches_generating.tex
+INPUT images/AST_TR.png
 INPUT Dissertation/lexical_fuzzing.tex
 INPUT Dissertation/lexical_fuzzing.tex
 INPUT Dissertation/syntactical_fuzzing.tex

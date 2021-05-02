@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 20:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2962,10 +2962,88 @@ File: images/Design_by_contract_TR.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Dissertation/testing_approaches_generating.tex [30.30])
-(./Dissertation/lexical_fuzzing.tex [31.31])
-(./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
-[32.32]) (./Dissertation/domain_fuzzing.tex)) [33.33]
+) (./Dissertation/testing_approaches_generating.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[]\TU/TimesNewRoman(1)/m/n/14.4 До настоящего момента под «автоматизацией» пони
+малась
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+\TU/TimesNewRoman(1)/m/n/14.4 тестирования расширяют понятие атоматизиции. Они 
+исключают
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 3--4
+\TU/TimesNewRoman(1)/m/n/14.4 человеческий фактор в процессе тестирования. Это 
+означает отсутсвие
+ []
+
+[30.30]
+Overfull \hbox (6.38985pt too wide) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(1)/m/n/14.4 Статическое тестирование (статический анализ) —
+ автоматизированный
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 7--8
+\TU/TimesNewRoman(1)/m/n/14.4 процесс ревизии кода без его исполнения. Статичес
+кое тестирование
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 7--8
+\TU/TimesNewRoman(1)/m/n/14.4 неактуальной библиотеки, обращение к пустому указ
+ателю и т. д.).
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 7--8
+\TU/TimesNewRoman(1)/m/n/14.4 Распространенные инструменты статического анализа
+: \TU/TimesNewRoman(1)/m/it/14.4 PMD, Checkstyle,
+ []
+
+[31.31]
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]\TU/TimesNewRoman(1)/m/n/14.4 Недостатком сопоставления с образцом является о
+тсутствие
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 22--23
+\TU/TimesNewRoman(1)/m/n/14.4 контекта исполнения. Другими словами, сопоставлен
+ие с образцом не
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 42--43
+\TU/TimesNewRoman(1)/m/n/14.4 символов, символы пребразубтся в токены, а из ток
+енов составляется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\TU/TimesNewRoman(1)/m/it/14.4 дерево разбора\TU/TimesNewRoman(1)/m/n/14.4 . Де
+раво разбора представляет собой синтаксическое
+ []
+
+File: images/AST_TR.png Graphic file (type bmp)
+<images/AST_TR.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]\TU/TimesNewRoman(1)/m/n/14.4 Статический анализатор, использующий ситаксичес
+кий анализ,
+ []
+
+[32.32]) (./Dissertation/lexical_fuzzing.tex)
+(./Dissertation/syntactical_fuzzing.tex [33.33])
+(./Dissertation/semantical_fuzzing.tex [34.34])
+(./Dissertation/domain_fuzzing.tex)) [35.35]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
@@ -3035,7 +3113,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[34.34
+[36.36
 
 
 
@@ -3044,7 +3122,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [35.35
+(./Dissertation/tests.tex)) [37.37
 
 
 
@@ -3087,7 +3165,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[36.36
+[38.38
 
 
 
@@ -3095,230 +3173,20 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 \openout2 = `Dissertation/references.aux'.
 
  (./Dissertation/references.tex
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 ...ttps://ru.wikipedia.org/wiki/Тестирование_
-                                                  программного_обеспечения
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Overfull \hbox (15.98277pt too wide) in paragraph at lines 14--15
+[]\TU/TimesNewRoman(1)/m/n/14.4 https://ru.wikipedia.org/wiki/Тестирование_прог
+раммного_обеспечения 
+ []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.15 ^^I
-        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.15 ^^I
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no п in font cmmi10!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no г in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no м in font cmmi12!
-Missing character: There is no м in font cmmi12!
-Missing character: There is no н in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no г in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no о in font cmmi10!
-Missing character: There is no б in font cmmi12!
-Missing character: There is no е in font cmmi12!
-Missing character: There is no с in font cmmi12!
-Missing character: There is no п in font cmmi12!
-Missing character: There is no е in font cmmi12!
-Missing character: There is no ч in font cmmi12!
-Missing character: There is no е in font cmmi12!
-Missing character: There is no н in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no я in font cmmi12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.15 ^^I
-        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.16 \item https://ru.wikipedia.org/wiki/Ручное_
-                                                тестирование
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.17 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.17 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no т in font cmmi10!
-Missing character: There is no е in font cmmi12!
-Missing character: There is no с in font cmmi12!
-Missing character: There is no т in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no в in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no н in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no е in font cmmi12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.17 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.18 .../ru.wikipedia.org/wiki/Автоматизированное_
-                                                  тестирование
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.19 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.19 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no т in font cmmi10!
-Missing character: There is no е in font cmmi12!
-Missing character: There is no с in font cmmi12!
-Missing character: There is no т in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no в in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no н in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no е in font cmmi12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.19 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.24 \item https://ru.wikipedia.org/wiki/Логика_
-                                                Хоара#Тройки_Хоара
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! You can't use `macro parameter character #' in math mode.
-l.24 ...ttps://ru.wikipedia.org/wiki/Логика_Хоара#
-                                                  Тройки_Хоара
+! You can't use `macro parameter character #' in horizontal mode.
+l.24 ...tps://ru.wikipedia.org/wiki/Логика\_Хоара#
+                                                  Тройки\_Хоара
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.25 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.25 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no Х in font cmmi10!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no Т in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no й in font cmmi12!
-Missing character: There is no к in font cmmi12!
-Missing character: There is no и in font cmmi12!
-Missing character: There is no Х in font cmmi10!
-Missing character: There is no о in font cmmi12!
-Missing character: There is no а in font cmmi12!
-Missing character: There is no р in font cmmi12!
-Missing character: There is no а in font cmmi12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.25 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-) [37.37
+) [39.39
 
 
 
@@ -3326,7 +3194,7 @@ deleted material, e.g., by typing `I$}'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [38.38
+ (./Dissertation/appendix.tex) [40.40
 
 
 
@@ -3398,7 +3266,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: FA76FD4B6348FD42156FD47667CFA5B6;5037.
+(rerunfilecheck)             Checksum: 1B7BB9E29967877D659E80D250430EDC;5020.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3409,12 +3277,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44389 strings out of 479418
- 864059 string characters out of 5884585
- 2076105 words of memory out of 5000000
- 61036 multiletter control sequences out of 15000+600000
+ 44405 strings out of 479418
+ 864261 string characters out of 5884585
+ 2076222 words of memory out of 5000000
+ 61052 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (38 pages).
+Output written on dissertation.pdf (40 pages).
