@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 00:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2488,6 +2488,39 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[]\TU/TimesNewRoman(1)/m/n/14.4 При разработке тестовых сценариев главным измен
+яющимся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\TU/TimesNewRoman(1)/m/n/14.4 компонентом являются входные данные. Структура те
+ста меняется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\TU/TimesNewRoman(1)/m/n/14.4 реже. Что бы избежать дублирования кода, JUnit 5 
+предоставляет
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 146--147
+\TU/TimesNewRoman(1)/m/n/14.4 тест параметризованным, достаточное поменять анно
+тацию \TU/CourierNew(1)/m/n/14.4 @Test \TU/TimesNewRoman(1)/m/n/14.4 на
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 146--147
+\TU/CourierNew(1)/m/n/14.4 @ParametrizedTest \TU/TimesNewRoman(1)/m/n/14.4 и ук
+азать источник входных данных. Пример
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 ) (./Dissertation/testing_approaches.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 []\TU/TimesNewRoman(1)/m/n/14.4 Разработка тестовых сценариев подразуевает анал
@@ -2512,19 +2545,19 @@ Underfull \hbox (badness 1715) in paragraph at lines 5--6
 ебя автоматизацию
  []
 
-[8.8]
+[8.8] [9.9]
 Underfull \hbox (badness 2781) in paragraph at lines 10--11
 \TU/TimesNewRoman(1)/m/n/14.4 должен быть конечен и выполняться достаточно быст
 ро. Далее будут
  []
 
-[9.9]
+[10.10]
 Underfull \hbox (badness 5622) in paragraph at lines 17--18
 []\TU/TimesNewRoman(1)/m/n/14.4 Тестирование на основе спецификации — подход к 
 разработке
  []
 
-[10.10]
+
 Underfull \hbox (badness 2326) in paragraph at lines 19--20
 []\TU/TimesNewRoman(1)/m/n/14.4 Основу этого метода составляет группировка множ
 ества входных
@@ -2542,11 +2575,14 @@ Underfull \hbox (badness 1810) in paragraph at lines 23--24
 олжна возвращать
  []
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [11.11]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
+[12.12]
 Underfull \hbox (badness 4556) in paragraph at lines 123--124
 \TU/TimesNewRoman(1)/m/n/14.4 если применять маленькие изменения к входным данн
 ым (например,
@@ -2558,24 +2594,22 @@ Underfull \hbox (badness 1515) in paragraph at lines 123--124
  в другой класс.
  []
 
-
+[13.13]
 Underfull \hbox (badness 1783) in paragraph at lines 131--132
 []\TU/TimesNewRoman(1)/m/n/14.4 Постановка задачи. Подсчет количества очков игр
 ока. Даны очки
  []
 
-[12.12]
+
 Underfull \hbox (badness 1655) in paragraph at lines 137--138
 []\TU/TimesNewRoman(1)/m/n/14.4 Если количество оставшихся жизней больше, чем 3
 , то
  []
 
-[13.13]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+[14.14]
 File: images/Boundaries_example_TR.png Graphic file (type bmp)
 <images/Boundaries_example_TR.png>
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2591,7 +2625,7 @@ Underfull \hbox (badness 1895) in paragraph at lines 239--240
 ют исходный код
  []
 
-[14.14]
+[15.15]
 Underfull \hbox (badness 1418) in paragraph at lines 241--242
 \TU/TimesNewRoman(1)/m/n/14.4 Критерий покрытия тесно связан с понятием \TU/Tim
 esNewRoman(1)/m/it/14.4 покрытия тестами\TU/TimesNewRoman(1)/m/n/14.4 . Под
@@ -2603,7 +2637,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 241--242
 сходного кода
  []
 
-[15.15]
+[16.16]
 Underfull \hbox (badness 2903) in paragraph at lines 246--247
 []\TU/TimesNewRoman(1)/m/n/14.4 Позволяет разработать тесты исходя только из ис
 ходного кода
@@ -2615,7 +2649,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 265--266
  покрытия,
  []
 
-[16.16]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2625,13 +2661,14 @@ Underfull \hbox (badness 2753) in paragraph at lines 314--315
  этого теста
  []
 
+[17.17]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17.17]
+[18.18]
 File: images/CFG.png Graphic file (type bmp)
 <images/CFG.png>
- [18.18]
+
 Overfull \hbox (17.293pt too wide) in paragraph at lines 358--359
 []\TU/TimesNewRoman(1)/m/n/14.4 Критерий покрытия блоков более устойчив к измен
 ениям форматирования
@@ -2656,18 +2693,18 @@ Underfull \hbox (badness 7468) in paragraph at lines 375--376
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 375--376
-\TU/TimesNewRoman(1)/m/n/14.4 управляющего блока (условие выполнино или нет). В
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+\TU/TimesNewRoman(1)/m/n/14.4 управляющего блока (условие выполнено или нет). В
  тех случаях,
  []
 
-
+[20.20]
 Underfull \hbox (badness 3601) in paragraph at lines 383--384
 []\TU/TimesNewRoman(1)/m/n/14.4 Одного покрытия условий бывает недостаточно. 10
 0% покрытие
  []
 
-[20.20]
+
 Underfull \hbox (badness 3386) in paragraph at lines 393--394
 []\TU/TimesNewRoman(1)/m/n/14.4 Критерий покрытия путей исполнения сосредоточен
  на подсчете
@@ -2697,7 +2734,7 @@ Underfull \hbox (badness 2521) in paragraph at lines 423--424
 необходимые 4.
  []
 
-
+[22.22]
 Underfull \hbox (badness 6825) in paragraph at lines 432--433
 []\TU/TimesNewRoman(1)/m/n/14.4 Приемуществом MC/DC критерия является меньшее к
 оличество
@@ -2712,6 +2749,12 @@ Underfull \hbox (badness 3029) in paragraph at lines 437--438
 File: images/Coverage_criteria_TR.png Graphic file (type bmp)
 <images/Coverage_criteria_TR.png>
 
+Underfull \hbox (badness 1454) in paragraph at lines 446--447
+\TU/TimesNewRoman(1)/m/n/14.4 покрытия строк кода. Но 100 % покрытия MC/DC не о
+значает 100 %
+ []
+
+[23.23]
 Underfull \hbox (badness 1472) in paragraph at lines 450--451
 []\TU/TimesNewRoman(1)/m/n/14.4 В больших программах сложно добиться 100 % покр
 ытия. Часто
@@ -2723,7 +2766,7 @@ Underfull \hbox (badness 5490) in paragraph at lines 450--451
 еских ресурсов.
  []
 
-[22.22]
+
 Underfull \hbox (badness 10000) in paragraph at lines 452--453
 []\TU/TimesNewRoman(1)/m/n/14.4 Важно отметить, что структурное тестирование, н
 е зависимо
@@ -2735,10 +2778,113 @@ Underfull \hbox (badness 4391) in paragraph at lines 452--453
 остью заменить
  []
 
-) (./Dissertation/testing_approaches_generating.tex [23.23])
-(./Dissertation/lexical_fuzzing.tex) (./Dissertation/syntactical_fuzzing.tex
-[24.24]) (./Dissertation/semantical_fuzzing.tex)
-(./Dissertation/domain_fuzzing.tex [25.25])) [26.26]
+
+Underfull \hbox (badness 4981) in paragraph at lines 457--458
+\TU/TimesNewRoman(1)/m/n/14.4 используется для анализа и тестирования программн
+ого обеспечения.
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 462--463
+[]\TU/TimesNewRoman(1)/m/n/14.4 Таблица решений — таблица, состоящая из \TU/Tim
+esNewRoman(1)/m/it/14.4 условий \TU/TimesNewRoman(1)/m/n/14.4 и \TU/TimesNewRom
+an(1)/m/it/14.4 действий\TU/TimesNewRoman(1)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+[]\TU/TimesNewRoman(1)/m/n/14.4 Таблицы решений используются для моделирования 
+того, как
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 464--465
+\TU/TimesNewRoman(1)/m/n/14.4 комбинация входных параметров приводит к определё
+нному результату
+ []
+
+
+Overfull \hbox (2.0959pt too wide) in paragraph at lines 476--476
+[]|\TU/TimesNewRoman(1)/m/n/14.4 значение1| 
+ []
+
+
+Overfull \hbox (2.0959pt too wide) in paragraph at lines 476--476
+[]|\TU/TimesNewRoman(1)/m/n/14.4 значение2| 
+ []
+
+
+Overfull \hbox (2.0959pt too wide) in paragraph at lines 476--476
+[]|\TU/TimesNewRoman(1)/m/n/14.4 значение3| 
+ []
+
+
+Overfull \hbox (2.0959pt too wide) in paragraph at lines 476--476
+[]|\TU/TimesNewRoman(1)/m/n/14.4 значение4| 
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 482--483
+[]\TU/TimesNewRoman(1)/m/n/14.4 Существует несколько стратегий написания тестов
+ых сценариев,
+ []
+
+[24.24]
+Underfull \hbox (badness 6284) in paragraph at lines 485--486
+[]\TU/TimesNewRoman(1)/m/n/14.4 Все варианты, представленные в таблице. Каждая 
+колонка в
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 486--487
+[]\TU/TimesNewRoman(1)/m/n/14.4 Все возможные варианты. Каждый набор входных да
+нных —
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 486--487
+\TU/TimesNewRoman(1)/m/n/14.4 уникальная комбинация. Количество таких комбинаци
+й $\OT1/cmr/m/n/14.4 2[]$\TU/TimesNewRoman(1)/m/n/14.4 . На
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 486--487
+\TU/TimesNewRoman(1)/m/n/14.4 практике это почти недостижимый способ разработки
+ тестовых
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 487--488
+[]\TU/TimesNewRoman(1)/m/n/14.4 Учитывание уникальных действий. Каждый тестовый
+ сценарий
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 492--493
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для написания сценариев тестирования, основанны
+х на таблице
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 496--497
+\TU/TimesNewRoman(1)/m/n/14.4 между ними. Состояние отражает конкретное место в
+ коде в момент
+ []
+
+File: images/State_machine_TR.png Graphic file (type bmp)
+<images/State_machine_TR.png>
+File: images/Transition_tree_TR.png Graphic file (type bmp)
+<images/Transition_tree_TR.png>
+
+Underfull \hbox (badness 7576) in paragraph at lines 519--520
+[]\TU/TimesNewRoman(1)/m/n/14.4 Описанный подход позволяет формализовать разраб
+отку тестов.
+ []
+
+[25.25]) (./Dissertation/testing_approaches_generating.tex)
+(./Dissertation/lexical_fuzzing.tex [26.26] [27.27])
+(./Dissertation/syntactical_fuzzing.tex) (./Dissertation/semantical_fuzzing.tex
+[28.28]) (./Dissertation/domain_fuzzing.tex)) [29.29]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
 
@@ -2808,7 +2954,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[27.27
+[30.30
 
 
 
@@ -2817,7 +2963,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [28.28
+(./Dissertation/tests.tex)) [31.31
 
 
 
@@ -2860,7 +3006,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[29.29
+[32.32
 
 
 
@@ -3029,7 +3175,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) [30.30
+) [33.33
 
 
 
@@ -3037,7 +3183,7 @@ deleted material, e.g., by typing `I$}'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [31.31
+ (./Dissertation/appendix.tex) [34.34
 
 
 
@@ -3109,7 +3255,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: D2441A7A707A2E78C5CF05B320D6C20E;5037.
+(rerunfilecheck)             Checksum: 10860BF53FF62E3E6B76793BDB5361EA;5037.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3120,12 +3266,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44306 strings out of 479418
- 862465 string characters out of 5884585
- 2044578 words of memory out of 5000000
- 60954 multiletter control sequences out of 15000+600000
+ 44343 strings out of 479418
+ 863244 string characters out of 5884585
+ 2075983 words of memory out of 5000000
+ 60991 multiletter control sequences out of 15000+600000
  536835 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (31 pages).
+Output written on dissertation.pdf (34 pages).

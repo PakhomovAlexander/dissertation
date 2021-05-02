@@ -506,6 +506,8 @@ INPUT Dissertation/testing_approaches.tex
 INPUT images/Boundaries_example_TR.png
 INPUT images/CFG.png
 INPUT images/Coverage_criteria_TR.png
+INPUT images/State_machine_TR.png
+INPUT images/Transition_tree_TR.png
 INPUT Dissertation/testing_approaches_generating.tex
 INPUT Dissertation/testing_approaches_generating.tex
 INPUT Dissertation/lexical_fuzzing.tex
