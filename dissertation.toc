@@ -75,80 +75,80 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3.2}Мутационное тестирование}{32}{subsection.1.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Генерация входных данных}{33}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.3}Генерация входных данных}{34}{subsection.1.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.4}Тестирование на основе анализа кода}{33}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.4}Тестирование на основе анализа кода}{34}{subsection.1.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Лексическая генерация случайных входных данных}{33}{section.1.4}%
+\contentsline {section}{\numberline {1.4}Лексическая генерация случайных входных данных}{35}{section.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Fuzzing: Breaking Things with Random Inputs}{33}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.1}Fuzzing: Breaking Things with Random Inputs}{35}{subsection.1.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}Code Coverage}{33}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.2}Code Coverage}{35}{subsection.1.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.3}Mutation-Based Fuzzing}{33}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.3}Mutation-Based Fuzzing}{35}{subsection.1.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.4}Greybox Fuzzing}{33}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.4}Greybox Fuzzing}{35}{subsection.1.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.5}Search-Based Fuzzing}{33}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.5}Search-Based Fuzzing}{35}{subsection.1.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.6}Mutation Analysis}{34}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.6}Mutation Analysis}{35}{subsection.1.4.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Синтаксическая генерация случайных входных данных}{34}{section.1.5}%
+\contentsline {section}{\numberline {1.5}Синтаксическая генерация случайных входных данных}{35}{section.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.1}Fuzzing with Grammars}{34}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.1}Fuzzing with Grammars}{35}{subsection.1.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.2}Efficient Grammar Fuzzing}{34}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.2}Efficient Grammar Fuzzing}{35}{subsection.1.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.3}Grammar Coverage}{34}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}Grammar Coverage}{35}{subsection.1.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.4}Parsing Inputs}{34}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.4}Parsing Inputs}{35}{subsection.1.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.5}Probabilistic Grammar Fuzzing}{34}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.5}Probabilistic Grammar Fuzzing}{35}{subsection.1.5.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.6}Fuzzing with Generators}{34}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.6}Fuzzing with Generators}{35}{subsection.1.5.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.7}Greybox Fuzzing with Grammars}{34}{subsection.1.5.7}%
+\contentsline {subsection}{\numberline {1.5.7}Greybox Fuzzing with Grammars}{36}{subsection.1.5.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.8}Reducing Failure-Inducing Inputs}{34}{subsection.1.5.8}%
+\contentsline {subsection}{\numberline {1.5.8}Reducing Failure-Inducing Inputs}{36}{subsection.1.5.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Семантическая генерация случайных входных данных}{34}{section.1.6}%
+\contentsline {section}{\numberline {1.6}Семантическая генерация случайных входных данных}{36}{section.1.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.1}Mining Input Grammarss}{34}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.1}Mining Input Grammarss}{36}{subsection.1.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.2}Tracking Information Flow}{34}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.2}Tracking Information Flow}{36}{subsection.1.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.3}Concolic Fuzzing}{34}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.3}Concolic Fuzzing}{36}{subsection.1.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.4}Symbolic Fuzzing}{35}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.4}Symbolic Fuzzing}{36}{subsection.1.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.5}Mining Function Specifications}{35}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.5}Mining Function Specifications}{36}{subsection.1.6.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.7}Доменная генерация случайных входных данных}{35}{section.1.7}%
+\contentsline {section}{\numberline {1.7}Доменная генерация случайных входных данных}{36}{section.1.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7.1}Testing Configurations}{35}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.1}Testing Configurations}{36}{subsection.1.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7.2}Fuzzing APIs}{35}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.2}Fuzzing APIs}{36}{subsection.1.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7.3}Carving Unit Tests}{35}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.3}Carving Unit Tests}{36}{subsection.1.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7.4}Testing Web Applications}{35}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.4}Testing Web Applications}{36}{subsection.1.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.7.5}Testing Graphical User Interfaces}{35}{subsection.1.7.5}%
+\contentsline {subsection}{\numberline {1.7.5}Testing Graphical User Interfaces}{36}{subsection.1.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Постановка задачи}{36}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {2}Постановка задачи}{37}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Реализация}{37}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {3}Реализация}{38}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Средства реализации}{37}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Средства реализации}{38}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Требования к программному и аппаратному обеспечению}{37}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Требования к программному и аппаратному обеспечению}{38}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Реализация}{37}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Реализация}{38}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}План тестирования}{37}{section.3.4}%
+\contentsline {section}{\numberline {3.4}План тестирования}{38}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Заключение}{38}{chapter*.24}%
+\contentsline {chapter}{Заключение}{39}{chapter*.24}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Список литературы}{39}{chapter*.25}%
+\contentsline {chapter}{Список литературы}{40}{chapter*.25}%
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {А}Листинг кода}{40}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {А}Листинг кода}{41}{appendix.A}%

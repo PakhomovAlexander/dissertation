@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  2 MAY 2021 21:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  3 MAY 2021 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3040,14 +3040,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 кий анализ,
  []
 
-[32.32]) (./Dissertation/lexical_fuzzing.tex)
-(./Dissertation/syntactical_fuzzing.tex [33.33])
-(./Dissertation/semantical_fuzzing.tex [34.34])
-(./Dissertation/domain_fuzzing.tex)) [35.35]
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\TU/TimesNewRoman(1)/m/n/14.4 При рассмотрении структурного тестирования были
+ описанны
+ []
+
+[32.32]
+Underfull \hbox (badness 2318) in paragraph at lines 59--60
+\TU/TimesNewRoman(1)/m/n/14.4 критерий составляет основу \TU/TimesNewRoman(1)/b
+/n/14.4 мутационного тестирования\TU/TimesNewRoman(1)/m/n/14.4 . В процессе
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 59--60
+\TU/TimesNewRoman(1)/m/n/14.4 тесты найти ошибку. Цель мутационного тестировани
+я — повышение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\TU/TimesNewRoman(1)/b/n/14.4 Мутант. \TU/TimesNewRoman(1)/m/n/14.4 Для данно
+й программы \TU/TimesNewRoman(1)/m/it/14.4 P\TU/TimesNewRoman(1)/m/n/14.4 , мут
+антом называется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+\TU/TimesNewRoman(1)/b/n/14.4 мутационный оператор\TU/TimesNewRoman(1)/m/n/14.4
+ . Мутационный оператор — граматическое
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 69--71
+\TU/TimesNewRoman(1)/m/n/14.4 трансформации. Например, замена знака $\OT1/cmr/m
+/n/14.4 +$ \TU/TimesNewRoman(1)/m/n/14.4 на $\OMS/cmsy/m/n/14.4 ^^@$ \TU/TimesN
+ewRoman(1)/m/n/14.4 в арифметических
+ []
+
+[33.33]
+Underfull \hbox (badness 7944) in paragraph at lines 73--74
+[]\TU/TimesNewRoman(1)/b/n/14.4 Оператор арифметической замены. \TU/TimesNewRom
+an(1)/m/n/14.4 Замена арифметечиского
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]\TU/TimesNewRoman(1)/b/n/14.4 Оператор замены скалярных переменных. \TU/Times
+NewRoman(1)/m/n/14.4 Замена одной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(1)/m/n/14.4 Помимо описанных выше метационных оперторов, су
+ществуют
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]\TU/TimesNewRoman(1)/m/n/14.4 Чем больше мутантов убивает тест, тем выше его 
+критерий
+ []
+
+) (./Dissertation/lexical_fuzzing.tex [34.34])
+(./Dissertation/syntactical_fuzzing.tex [35.35])
+(./Dissertation/semantical_fuzzing.tex) (./Dissertation/domain_fuzzing.tex))
+[36.36]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
-
-(./Dissertation/task_definition_2.tex)
+ (./Dissertation/task_definition_2.tex)
 Underfull \hbox (badness 3679) in paragraph at lines 10--50
 []\TU/TimesNewRoman(1)/m/n/14.4 Во второй главе приводится постановка задачи, е
 е содержательное и
@@ -3113,7 +3174,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[36.36
+[37.37
 
 
 
@@ -3122,7 +3183,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [37.37
+(./Dissertation/tests.tex)) [38.38
 
 
 
@@ -3165,7 +3226,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[38.38
+[39.39
 
 
 
@@ -3186,7 +3247,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [39.39
+) [40.40
 
 
 
@@ -3194,7 +3255,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [40.40
+ (./Dissertation/appendix.tex) [41.41
 
 
 
@@ -3277,12 +3338,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44405 strings out of 479418
- 864261 string characters out of 5884585
- 2076222 words of memory out of 5000000
- 61052 multiletter control sequences out of 15000+600000
+ 44406 strings out of 479418
+ 864277 string characters out of 5884585
+ 2076224 words of memory out of 5000000
+ 61053 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (40 pages).
+Output written on dissertation.pdf (41 pages).
