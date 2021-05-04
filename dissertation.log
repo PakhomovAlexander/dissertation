@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  3 MAY 2021 21:56
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  4 MAY 2021 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3102,10 +3102,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 критерий
  []
 
-) (./Dissertation/lexical_fuzzing.tex [34.34])
-(./Dissertation/syntactical_fuzzing.tex [35.35])
-(./Dissertation/semantical_fuzzing.tex) (./Dissertation/domain_fuzzing.tex))
-[36.36]
+[34.34]
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+[]\TU/TimesNewRoman(1)/b/n/14.4 Случайная генерация. \TU/TimesNewRoman(1)/m/n/1
+4.4 Тестируемая система принимается за
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 черный ящик, предположений об формате входных дан
+ных не
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 делается. Генерируется большое количество случайн
+ых данных
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 и подается на вход программе. На практике этот сп
+особ редко
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 используется. Для построения более эффективных фа
+ззеров
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 испольщуется \TU/TimesNewRoman(1)/m/it/14.4 струк
+турированные входные данные\TU/TimesNewRoman(1)/m/n/14.4 , которые
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 100--101
+\TU/TimesNewRoman(1)/m/n/14.4 строке, замена битов. Некоторые инструменты (Amer
+ican Fuzzy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\TU/TimesNewRoman(1)/m/n/14.4 если программа обрабатывает файлы в формате jpeg,
+ то
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 106--107
+\TU/TimesNewRoman(1)/m/n/14.4 процессорного времени. Для оптимизации это процес
+са используется
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 111--112
+\TU/TimesNewRoman(1)/m/n/14.4 тестовых сценариев и сокращению общего времени ге
+нерации (100 %
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 115--116
+[]\TU/TimesNewRoman(1)/m/n/14.4 Телеметрия кода (данные о покрытии) может быть 
+полезна для
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 115--116
+\TU/TimesNewRoman(1)/m/n/14.4 коррекции стратегии генерации. Например, фаззер м
+ожет использовать
+ []
+
+[35.35]
+Underfull \hbox (badness 4531) in paragraph at lines 119--120
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для определения набора входных параметров, необ
+ходимых для
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 119--120
+\TU/TimesNewRoman(1)/m/n/14.4 достижения определенного участва кода, использует
+ся символическое
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 121--122
+\TU/TimesNewRoman(1)/m/n/14.4 Результатом работы является набор ограничений для
+ входных данных,
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Dissertation/lexical_fuzzing.tex [36.36])
+(./Dissertation/syntactical_fuzzing.tex [37.37])
+(./Dissertation/semantical_fuzzing.tex) (./Dissertation/domain_fuzzing.tex
+[38.38])) [39.39]
 \openout2 = `Dissertation/task_definition_2.aux'.
 
  (./Dissertation/task_definition_2.tex)
@@ -3174,7 +3267,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[37.37
+[40.40
 
 
 
@@ -3183,7 +3276,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [38.38
+(./Dissertation/tests.tex)) [41.41
 
 
 
@@ -3226,7 +3319,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[39.39
+[42.42
 
 
 
@@ -3247,7 +3340,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [40.40
+) [43.43
 
 
 
@@ -3255,7 +3348,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [41.41
+ (./Dissertation/appendix.tex) [44.44
 
 
 
@@ -3327,7 +3420,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 1B7BB9E29967877D659E80D250430EDC;5020.
+(rerunfilecheck)             Checksum: C660111A4F31446E819EEFBF54A26DB5;5057.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3338,12 +3431,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44406 strings out of 479418
- 864277 string characters out of 5884585
- 2076224 words of memory out of 5000000
- 61053 multiletter control sequences out of 15000+600000
+ 44409 strings out of 479418
+ 864298 string characters out of 5884585
+ 2076249 words of memory out of 5000000
+ 61056 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (41 pages).
+Output written on dissertation.pdf (44 pages).
