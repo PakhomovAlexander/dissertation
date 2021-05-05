@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  4 MAY 2021 13:20
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  5 MAY 2021 19:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1928,16 +1928,9 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 
 (./dissertation.aux (./Dissertation/title.aux) (./Dissertation/annotation.aux)
 (./Dissertation/contents.aux) (./Dissertation/introduction.aux)
-(./Dissertation/analyze_1.aux
-
-LaTeX Warning: Label `section_4' multiply defined.
-
-
-LaTeX Warning: Label `section_4@cref' multiply defined.
-
-) (./Dissertation/task_definition_2.aux) (./Dissertation/realisation_3.aux)
-(./Dissertation/conclusion.aux) (./Dissertation/references.aux)
-(./Dissertation/appendix.aux)
+(./Dissertation/analyze_1.aux) (./Dissertation/task_analyze_2.aux)
+(./Dissertation/realisation_3.aux) (./Dissertation/conclusion.aux)
+(./Dissertation/references.aux) (./Dissertation/appendix.aux)
 \c@totalcount@figure@totc=\count587
 \c@totalcount@table@totc=\count588
 \c@TotPages@totc=\count589
@@ -2308,10 +2301,10 @@ Underfull \hbox (badness 5189) in paragraph at lines 6--46
 
  (./Dissertation/contents.tex (./dissertation.toc
 Package cleveref Info: loaded `russian' language definitions on input line 4.
- [3.3
+)) [3.3
 
 
-])) [4.4]
+]
 \openout2 = `Dissertation/introduction.aux'.
 
 
@@ -2327,7 +2320,7 @@ Underfull \hbox (badness 3240) in paragraph at lines 8--9
 ьности выбранной
  []
 
-) [5.5
+) [4.4
 
 
 
@@ -2394,7 +2387,7 @@ Underfull \hbox (badness 7613) in paragraph at lines 7--8
 ния действий
  []
 
-[6.6
+[5.5
 
 
 
@@ -2452,7 +2445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 яются
  []
 
-[7.7]
+[6.6]
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
 []\TU/TimesNewRoman(1)/m/n/14.4 Автоматическое тестирование не может полностью 
 заменить
@@ -2545,13 +2538,13 @@ Underfull \hbox (badness 1715) in paragraph at lines 5--6
 ебя автоматизацию
  []
 
-[8.8] [9.9]
+[7.7] [8.8]
 Underfull \hbox (badness 2781) in paragraph at lines 10--11
 \TU/TimesNewRoman(1)/m/n/14.4 должен быть конечен и выполняться достаточно быст
 ро. Далее будут
  []
 
-[10.10]
+[9.9]
 Underfull \hbox (badness 5622) in paragraph at lines 17--18
 []\TU/TimesNewRoman(1)/m/n/14.4 Тестирование на основе спецификации — подход к 
 разработке
@@ -2578,11 +2571,11 @@ Underfull \hbox (badness 1810) in paragraph at lines 23--24
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11.11]
+[10.10]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12.12]
+[11.11]
 Underfull \hbox (badness 4556) in paragraph at lines 123--124
 \TU/TimesNewRoman(1)/m/n/14.4 если применять маленькие изменения к входным данн
 ым (например,
@@ -2594,7 +2587,7 @@ Underfull \hbox (badness 1515) in paragraph at lines 123--124
  в другой класс.
  []
 
-[13.13]
+[12.12]
 Underfull \hbox (badness 1783) in paragraph at lines 131--132
 []\TU/TimesNewRoman(1)/m/n/14.4 Постановка задачи. Подсчет количества очков игр
 ока. Даны очки
@@ -2606,7 +2599,7 @@ Underfull \hbox (badness 1655) in paragraph at lines 137--138
 , то
  []
 
-[14.14]
+[13.13]
 File: images/Boundaries_example_TR.png Graphic file (type bmp)
 <images/Boundaries_example_TR.png>
 
@@ -2625,7 +2618,7 @@ Underfull \hbox (badness 1895) in paragraph at lines 239--240
 ют исходный код
  []
 
-[15.15]
+[14.14]
 Underfull \hbox (badness 1418) in paragraph at lines 241--242
 \TU/TimesNewRoman(1)/m/n/14.4 Критерий покрытия тесно связан с понятием \TU/Tim
 esNewRoman(1)/m/it/14.4 покрытия тестами\TU/TimesNewRoman(1)/m/n/14.4 . Под
@@ -2637,7 +2630,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 241--242
 сходного кода
  []
 
-[16.16]
+[15.15]
 Underfull \hbox (badness 2903) in paragraph at lines 246--247
 []\TU/TimesNewRoman(1)/m/n/14.4 Позволяет разработать тесты исходя только из ис
 ходного кода
@@ -2661,11 +2654,11 @@ Underfull \hbox (badness 2753) in paragraph at lines 314--315
  этого теста
  []
 
-[17.17]
+[16.16]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18.18]
+[17.17]
 File: images/CFG.png Graphic file (type bmp)
 <images/CFG.png>
 
@@ -2674,7 +2667,7 @@ Overfull \hbox (17.293pt too wide) in paragraph at lines 358--359
 ениям форматирования
  []
 
-[19.19]
+[18.18]
 Overfull \hbox (21.06642pt too wide) in paragraph at lines 371--372
 []\TU/TimesNewRoman(1)/m/n/14.4 На практике критерий покрытия ветвлений оказыва
 ется предпочтительнее.
@@ -2698,7 +2691,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 375--376
  тех случаях,
  []
 
-[20.20]
+[19.19]
 Underfull \hbox (badness 3601) in paragraph at lines 383--384
 []\TU/TimesNewRoman(1)/m/n/14.4 Одного покрытия условий бывает недостаточно. 10
 0% покрытие
@@ -2722,7 +2715,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 393--394
 путём является
  []
 
-[21.21]
+[20.20]
 Underfull \hbox (badness 3965) in paragraph at lines 423--424
 \TU/TimesNewRoman(1)/m/n/14.4 сократить число тестовых сценариев до 4. Проблема
  состоит в том,
@@ -2734,7 +2727,7 @@ Underfull \hbox (badness 2521) in paragraph at lines 423--424
 необходимые 4.
  []
 
-[22.22]
+[21.21]
 Underfull \hbox (badness 6825) in paragraph at lines 432--433
 []\TU/TimesNewRoman(1)/m/n/14.4 Приемуществом MC/DC критерия является меньшее к
 оличество
@@ -2754,7 +2747,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 446--447
 значает 100 %
  []
 
-[23.23]
+[22.22]
 Underfull \hbox (badness 1472) in paragraph at lines 450--451
 []\TU/TimesNewRoman(1)/m/n/14.4 В больших программах сложно добиться 100 % покр
 ытия. Часто
@@ -2829,7 +2822,7 @@ Underfull \hbox (badness 5622) in paragraph at lines 482--483
 ых сценариев,
  []
 
-[24.24]
+[23.23]
 Underfull \hbox (badness 6284) in paragraph at lines 485--486
 []\TU/TimesNewRoman(1)/m/n/14.4 Все варианты, представленные в таблице. Каждая 
 колонка в
@@ -2881,7 +2874,7 @@ Underfull \hbox (badness 7576) in paragraph at lines 519--520
 отку тестов.
  []
 
-[25.25]
+[24.24]
 Overfull \hbox (2.17278pt too wide) in paragraph at lines 526--527
 \TU/TimesNewRoman(1)/m/n/14.4 подходы к тестированию программного обеспечения, 
 которые подразумевают
@@ -2920,7 +2913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 552--553
 ульное
  []
 
-[26.26] [27.27]
+[25.25] [26.26]
 Underfull \hbox (badness 10000) in paragraph at lines 592--593
 []\TU/TimesNewRoman(1)/m/n/14.4 Инвариант программы — условие, которое выполняе
 тся на
@@ -2932,7 +2925,7 @@ Underfull \hbox (badness 2865) in paragraph at lines 592--593
  инварианта от
  []
 
-[28.28]
+[27.27]
 Underfull \hbox (badness 10000) in paragraph at lines 620--621
 \TU/TimesNewRoman(1)/m/n/14.4 ориентированных языках часто встречаются \TU/Time
 sNewRoman(1)/b/n/14.4 инварианты классов\TU/TimesNewRoman(1)/m/n/14.4 .
@@ -2958,7 +2951,7 @@ Underfull \hbox (badness 3240) in paragraph at lines 624--625
 
 File: images/Design_by_contract_TR.png Graphic file (type bmp)
 <images/Design_by_contract_TR.png>
-[29.29]
+[28.28]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2980,7 +2973,7 @@ Underfull \hbox (badness 1681) in paragraph at lines 3--4
 означает отсутсвие
  []
 
-[30.30]
+[29.29]
 Overfull \hbox (6.38985pt too wide) in paragraph at lines 7--8
 []\TU/TimesNewRoman(1)/m/n/14.4 Статическое тестирование (статический анализ) —
  автоматизированный
@@ -3004,7 +2997,7 @@ Underfull \hbox (badness 1642) in paragraph at lines 7--8
 : \TU/TimesNewRoman(1)/m/it/14.4 PMD, Checkstyle,
  []
 
-[31.31]
+[30.30]
 
 LaTeX Warning: Command \textbackslash invalid in math mode on input line 22.
 
@@ -3046,7 +3039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  описанны
  []
 
-[32.32]
+[31.31]
 Underfull \hbox (badness 2318) in paragraph at lines 59--60
 \TU/TimesNewRoman(1)/m/n/14.4 критерий составляет основу \TU/TimesNewRoman(1)/b
 /n/14.4 мутационного тестирования\TU/TimesNewRoman(1)/m/n/14.4 . В процессе
@@ -3078,7 +3071,7 @@ Underfull \hbox (badness 5563) in paragraph at lines 69--71
 ewRoman(1)/m/n/14.4 в арифметических
  []
 
-[33.33]
+[32.32]
 Underfull \hbox (badness 7944) in paragraph at lines 73--74
 []\TU/TimesNewRoman(1)/b/n/14.4 Оператор арифметической замены. \TU/TimesNewRom
 an(1)/m/n/14.4 Замена арифметечиского
@@ -3102,16 +3095,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 критерий
  []
 
-[34.34]
+[33.33]
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 []\TU/TimesNewRoman(1)/b/n/14.4 Случайная генерация. \TU/TimesNewRoman(1)/m/n/1
 4.4 Тестируемая система принимается за
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 99--100
-\TU/TimesNewRoman(1)/m/n/14.4 черный ящик, предположений об формате входных дан
-ных не
+Underfull \hbox (badness 4621) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14.4 черный ящик, предположений о формате входных данн
+ых не
  []
 
 
@@ -3139,15 +3132,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--100
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 100--101
-\TU/TimesNewRoman(1)/m/n/14.4 строке, замена битов. Некоторые инструменты (Amer
-ican Fuzzy
+Underfull \hbox (badness 7030) in paragraph at lines 100--101
+\TU/TimesNewRoman(1)/m/n/14.4 замена битов. Некоторые инструменты (American Fuz
+zy Lop)
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 100--101
+\TU/TimesNewRoman(1)/m/n/14.4 используют генетические алгоритмы для повышения к
+ачества
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
-\TU/TimesNewRoman(1)/m/n/14.4 если программа обрабатывает файлы в формате jpeg,
- то
+\TU/TimesNewRoman(1)/m/n/14.4 если программа обрабатывает файлы в формате \TU/C
+ourierNew(1)/m/n/14.4 jpeg\TU/TimesNewRoman(1)/m/n/14.4 , то
  []
 
 
@@ -3174,15 +3173,15 @@ Underfull \hbox (badness 2409) in paragraph at lines 115--116
 ожет использовать
  []
 
-[35.35]
+[34.34]
 Underfull \hbox (badness 4531) in paragraph at lines 119--120
 []\TU/TimesNewRoman(1)/m/n/14.4 Для определения набора входных параметров, необ
 ходимых для
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 119--120
-\TU/TimesNewRoman(1)/m/n/14.4 достижения определенного участва кода, использует
+Underfull \hbox (badness 6893) in paragraph at lines 119--120
+\TU/TimesNewRoman(1)/m/n/14.4 достижения определенного участка кода, использует
 ся символическое
  []
 
@@ -3195,13 +3194,64 @@ Underfull \hbox (badness 2269) in paragraph at lines 121--122
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Dissertation/lexical_fuzzing.tex [36.36])
-(./Dissertation/syntactical_fuzzing.tex [37.37])
-(./Dissertation/semantical_fuzzing.tex) (./Dissertation/domain_fuzzing.tex
-[38.38])) [39.39]
-\openout2 = `Dissertation/task_definition_2.aux'.
 
- (./Dissertation/task_definition_2.tex)
+Underfull \hbox (badness 1708) in paragraph at lines 156--157
+[]\TU/TimesNewRoman(1)/m/n/14.4 Тестирование на основе анализа кода (англ. Sear
+ch-based software
+ []
+
+[35.35]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+[]\TU/TimesNewRoman(1)/m/n/14.4 Основаня цель SBST — достижение 100 % покрытия 
+кода
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 162--163
+[]\TU/TimesNewRoman(1)/m/n/14.4 Если конструктор имеет параметры, сгенерировать
+ случайные
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 168--169
+[]\TU/TimesNewRoman(1)/m/n/14.4 Повторить все действия, пока не будет достигнут
+о суммарное
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36.36]
+Underfull \hbox (badness 3364) in paragraph at lines 221--222
+[]\TU/TimesNewRoman(1)/m/n/14.4 Тестирование на основе анализа кода — область к
+омпьютерных
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 221--222
+\TU/TimesNewRoman(1)/m/n/14.4 не существует широко распространненых инструменто
+в автоматической
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\TU/TimesNewRoman(1)/m/n/14.4 генерации тестов. В научных сообществах есть два 
+инструмента:
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 221--222
+\TU/TimesNewRoman(1)/m/n/14.4 Sapienz [16] для автоматической генерации тестовы
+х сценариев для
+ []
+
+[37.37])) [38.38]
+\openout2 = `Dissertation/task_analyze_2.aux'.
+
+ (./Dissertation/task_analyze_2.tex)
 Underfull \hbox (badness 3679) in paragraph at lines 10--50
 []\TU/TimesNewRoman(1)/m/n/14.4 Во второй главе приводится постановка задачи, е
 е содержательное и
@@ -3267,7 +3317,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 ких исследова- ний.
  []
 
-[40.40
+[39.39
 
 
 
@@ -3276,7 +3326,7 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--50
 
  (./Dissertation/realisation_3.tex (./Dissertation/realisationTools.tex) (./Dis
 sertation/technicalRequirements.tex) (./Dissertation/realisation.tex)
-(./Dissertation/tests.tex)) [41.41
+(./Dissertation/tests.tex)) [40.40
 
 
 
@@ -3319,7 +3369,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 8--52
 нциях различного
  []
 
-[42.42
+[41.41
 
 
 
@@ -3340,7 +3390,21 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [43.43
+! You can't use `macro parameter character #' in horizontal mode.
+l.40 ...randoop.github.io/randoop/manual/dev.html#
+                                                  starting
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]\TU/TimesNewRoman(1)/m/n/14.4 https://engineering.fb.com/2018/05/02/developer
+-tools/sapienz-
+ []
+
+) [42.42
 
 
 
@@ -3348,7 +3412,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ]
 \openout2 = `Dissertation/appendix.aux'.
 
- (./Dissertation/appendix.tex) [44.44
+ (./Dissertation/appendix.tex) [43.43
 
 
 
@@ -3414,29 +3478,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
 Package cleveref Info: loaded `russian' language definitions on input line 27.
  (./Dissertation/annotation.aux)
 (./Dissertation/contents.aux) (./Dissertation/introduction.aux)
-(./Dissertation/analyze_1.aux) (./Dissertation/task_definition_2.aux)
+(./Dissertation/analyze_1.aux) (./Dissertation/task_analyze_2.aux)
 (./Dissertation/realisation_3.aux) (./Dissertation/conclusion.aux)
 (./Dissertation/references.aux) (./Dissertation/appendix.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 67.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: C660111A4F31446E819EEFBF54A26DB5;5057.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: 9C210F916F7A935C08212C37C103D490;2546.
 Package logreq Info: Writing requests to 'dissertation.run.xml'.
 \openout1 = `dissertation.run.xml'.
 
  )
 (\end occurred when \iftrue on line 3 was incomplete) 
 Here is how much of TeX's memory you used:
- 44409 strings out of 479418
- 864298 string characters out of 5884585
- 2076249 words of memory out of 5000000
- 61056 multiletter control sequences out of 15000+600000
+ 44384 strings out of 479418
+ 863481 string characters out of 5884585
+ 2073020 words of memory out of 5000000
+ 61043 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,79p,1157b,4218s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (44 pages).
+Output written on dissertation.pdf (43 pages).
