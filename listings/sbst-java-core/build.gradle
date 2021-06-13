@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.github.javaparser:javaparser-symbol-solver-core:3.20.2'
+    implementation 'com.github.javaparser:javaparser-core:3.20.2'
+    implementation group: 'org.jacoco', name: 'org.jacoco.core', version: '0.8.7'
+
+    implementation 'org.jooq:joor:0.9.13'
+    implementation 'org.junit.platform:junit-platform-launcher:1.2.0'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    testCompile 'org.assertj:assertj-core:3.11.1'
+}
+
+test {
+    useJUnitPlatform()
+}

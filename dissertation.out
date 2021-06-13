@@ -15,7 +15,7 @@
 \BOOKMARK [2][-]{subsection.1.3.2}{Мутационное тестирование}{section.1.3}% 15
 \BOOKMARK [2][-]{subsection.1.3.3}{Генерация псевдосдослучайных входных данных}{section.1.3}% 16
 \BOOKMARK [2][-]{subsection.1.3.4}{Тестирование на основе анализа кода}{section.1.3}% 17
-\BOOKMARK [0][-]{chapter.2}{Анализ поставленной задачи}{}% 18
+\BOOKMARK [0][-]{chapter.2}{Анализ задачи}{}% 18
 \BOOKMARK [1][-]{section.2.1}{Постановка задачи}{chapter.2}% 19
 \BOOKMARK [1][-]{section.2.2}{Обзор существующих инструментов автогенерации модульных тестов}{chapter.2}% 20
 \BOOKMARK [2][-]{subsection.2.2.1}{Randoop}{section.2.2}% 21
@@ -24,8 +24,12 @@
 \BOOKMARK [0][-]{chapter.3}{Реализация}{}% 24
 \BOOKMARK [1][-]{section.3.1}{Средства реализации}{chapter.3}% 25
 \BOOKMARK [1][-]{section.3.2}{Требования к программному и аппаратному обеспечению}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.3}{Реализация алгоритма}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.4}{План тестирования}{chapter.3}% 28
-\BOOKMARK [0][-]{chapter*.27}{Заключение}{}% 29
-\BOOKMARK [0][-]{chapter*.28}{Список литературы}{}% 30
-\BOOKMARK [0][-]{appendix.A}{Листинг кода}{}% 31
+\BOOKMARK [1][-]{section.3.3}{Схема работы инструмента}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Реализация алгоритма}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{Вычисление функции приспособленности}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.6}{Сценарий использования}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.7}{План тестирования}{chapter.3}% 31
+\BOOKMARK [0][-]{chapter*.27}{Заключение}{}% 32
+\BOOKMARK [0][-]{chapter*.28}{Список литературы}{}% 33
+\BOOKMARK [0][-]{appendix.A}{Листинг тестируемого класса}{}% 34
+\BOOKMARK [0][-]{appendix.B}{Листинг сгенерированного модульного теста}{}% 35

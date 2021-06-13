@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.sbst.SbstToolTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-28T12:59:24" hostname="MacBook-Pro-4.local" time="9.916">
+  <properties/>
+  <testcase name="shouldGenerateTestsForGivenClass_ReturnsIntAcceptsTwoInts()" classname="com.github.sbst.SbstToolTest" time="9.916"/>
+  <system-out><![CDATA[Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+2 of 4 branches missed
+2 of 6 lines missed
+0 of 2 methods missed
+2 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: yellow
+Line 9: red
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+2 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: yellow
+Line 6: 
+Line 7: red
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+0 of 17 instructions missed
+0 of 4 branches missed
+0 of 6 lines missed
+0 of 2 methods missed
+0 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: green
+Line 9: green
+Line 10: 
+Line 11: green
+Coverage of class com/github/sbst/testclasses/SampleClass
+4 of 17 instructions missed
+1 of 4 branches missed
+1 of 6 lines missed
+0 of 2 methods missed
+1 of 4 complexity missed
+Line 3: green
+Line 4: 
+Line 5: green
+Line 6: 
+Line 7: green
+Line 8: yellow
+Line 9: green
+Line 10: 
+Line 11: red
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

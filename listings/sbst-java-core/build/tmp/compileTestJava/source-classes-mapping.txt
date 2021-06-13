@@ -1,0 +1,24 @@
+com/github/sbst/ClassInspectorTest.java
+ com.github.sbst.ClassInspectorTest
+com/github/sbst/core/info/TestBuildersDsl.java
+ com.github.sbst.core.info.TestBuildersDsl
+com/github/sbst/JUnit5TestRunnerTest.java
+ com.github.sbst.JUnit5TestRunnerTest
+com/github/sbst/core/TestSuiteBlueprintsGeneratorTest.java
+ com.github.sbst.core.TestSuiteBlueprintsGeneratorTest
+com/github/sbst/CodeExecutorTest.java
+ com.github.sbst.CodeExecutorTest
+com/github/sbst/core/info/ClassInfoTest.java
+ com.github.sbst.core.info.ClassInfoTest
+com/github/sbst/testclasses/SampleJunit5Test.java
+ com.github.sbst.testclasses.SampleJunit5Test
+com/github/sbst/core/algorithm/GeneticAlgorithmTest.java
+ com.github.sbst.core.algorithm.GeneticAlgorithmTest
+com/github/sbst/SbstToolTest.java
+ com.github.sbst.SbstToolTest
+com/github/sbst/testclasses/SampleClass.java
+ com.github.sbst.testclasses.SampleClass
+com/github/sbst/ClassCompilerTest.java
+ com.github.sbst.ClassCompilerTest
+com/github/sbst/TestGeneratorTest.java
+ com.github.sbst.TestGeneratorTest
