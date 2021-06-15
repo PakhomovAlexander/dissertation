@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  15 JUN 2021 20:42
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.31)  15 JUN 2021 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2585,6 +2585,12 @@ Underfull \hbox (badness 1515) in paragraph at lines 123--124
  []
 
 
+Underfull \hbox (badness 1817) in paragraph at lines 127--128
+\TU/TimesNewRoman(1)/m/n/14.4 основанном на спецификации. Такая комбинация назы
+вается \TU/TimesNewRoman(1)/m/it/14.4 доменным
+ []
+
+
 Underfull \hbox (badness 1783) in paragraph at lines 131--132
 []\TU/TimesNewRoman(1)/m/n/14.4 Постановка задачи. Подсчет количества очков игр
 ока. Даны очки
@@ -2695,27 +2701,27 @@ Underfull \hbox (badness 3386) in paragraph at lines 393--394
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
-\TU/TimesNewRoman(1)/m/n/14.4 уникальных путей, вместо подсчета результатов бло
-ков выполнения
+Underfull \hbox (badness 3930) in paragraph at lines 393--394
+\TU/TimesNewRoman(1)/m/n/14.4 уникальных путей вместо подсчета результатов блок
+ов выполнения и
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 393--394
-\TU/TimesNewRoman(1)/m/n/14.4 и условных блоков. На графе выполнения программы 
-путём является
+Underfull \hbox (badness 7851) in paragraph at lines 393--394
+\TU/TimesNewRoman(1)/m/n/14.4 условных блоков. На графе выполнения программы пу
+тём является
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 423--424
-\TU/TimesNewRoman(1)/m/n/14.4 сократить число тестовых сценариев до 4. Проблема
- состоит в том,
+Underfull \hbox (badness 4647) in paragraph at lines 423--424
+[]\TU/TimesNewRoman(1)/m/n/14.4 Чтобы достичь 100 % покрытия, используя критери
+й покрытия
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 423--424
-\TU/TimesNewRoman(1)/m/n/14.4 что бы выбрать из 8 возможных тестовых сценариев 
-необходимые 4.
+Underfull \hbox (badness 4634) in paragraph at lines 423--424
+\TU/TimesNewRoman(1)/m/n/14.4 путей, нужно написать 8 тестовых сценариев ($\OT1
+/cmr/m/n/14.4 2[]$\TU/TimesNewRoman(1)/m/n/14.4 ). MC/DC критерий
  []
 
 [21.21]
@@ -2751,15 +2757,15 @@ Underfull \hbox (badness 5490) in paragraph at lines 450--451
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 7203) in paragraph at lines 452--453
 []\TU/TimesNewRoman(1)/m/n/14.4 Важно отметить, что структурное тестирование, н
-е зависимо
+езависимо от
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 452--453
-\TU/TimesNewRoman(1)/m/n/14.4 от выбранного критерия покрытия, не способно полн
-остью заменить
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+\TU/TimesNewRoman(1)/m/n/14.4 выбранного критерия покрытия, не способно полност
+ью заменить
  []
 
 [22.22]
@@ -2979,9 +2985,15 @@ Underfull \hbox (badness 1642) in paragraph at lines 7--8
  []
 
 [30.30]
-Underfull \hbox (badness 3514) in paragraph at lines 20--21
-\TU/TimesNewRoman(1)/m/it/14.4 регулярного выражения\TU/TimesNewRoman(1)/m/n/14
-.4 . Регулярное выражение — последовательность
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]\TU/TimesNewRoman(1)/m/n/14.4 Сопоставление с образцом — проверка кода, в ход
+е которой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+\TU/TimesNewRoman(1)/m/n/14.4 происходит поиск соответствия заданному ранее обр
+азцу. Образец
  []
 
 
@@ -3408,12 +3420,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 33--34
-[]\TU/TimesNewRoman(1)/m/n/14.4 Цель: проверить корректность работы инструмента
- для с одним
- []
-
-
 Underfull \hbox (badness 3635) in paragraph at lines 35--36
 []\TU/TimesNewRoman(1)/m/n/14.4 Порядок проведения: создать java класс с одним 
 конструктором
@@ -3423,12 +3429,6 @@ Underfull \hbox (badness 3635) in paragraph at lines 35--36
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 []\TU/TimesNewRoman(1)/b/n/14.4 Тест 5. «Генерация модульного теста для класса 
 с одним
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 42--43
-[]\TU/TimesNewRoman(1)/m/n/14.4 Цель: проверить корректность работы инструмента
- для с одним
  []
 
 
@@ -3659,7 +3659,7 @@ Package cleveref Info: loaded `russian' language definitions on input line 27.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 7E647B051642F25ACDE7AF113AABE74B;3435.
+(rerunfilecheck)             Checksum: C7B4D53122007A3068EDC03A58CDAACE;3433.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3672,7 +3672,7 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
 Here is how much of TeX's memory you used:
  44502 strings out of 479418
  866515 string characters out of 5884585
- 2049580 words of memory out of 5000000
+ 2049579 words of memory out of 5000000
  61137 multiletter control sequences out of 15000+600000
  536843 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
