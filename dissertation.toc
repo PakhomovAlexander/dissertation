@@ -35,7 +35,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Критерий покрытия блоков}{18}{section*.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Критерий покрытия ветвлени}{19}{section*.10}%
+\contentsline {subsubsection}{Критерий покрытия ветвлений}{19}{section*.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Критерий покрытия условий}{20}{section*.11}%
 \defcounter {refsection}{0}\relax 
@@ -43,7 +43,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{MC/DC покрытие}{21}{section*.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Выбор критерия порытия}{22}{section*.14}%
+\contentsline {subsubsection}{Выбор критерия покрытия}{22}{section*.14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.4}Тестирование на основе модели}{23}{subsection.1.2.4}%
 \defcounter {refsection}{0}\relax 
@@ -75,7 +75,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3.2}Мутационное тестирование}{32}{subsection.1.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Генерация псевдосдослучайных входных данных}{34}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.3}Генерация псевдослучайных входных данных}{34}{subsection.1.3.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Использование нескольких фаззеров}{35}{section*.24}%
 \defcounter {refsection}{0}\relax 
